@@ -19,9 +19,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-The COMMA Lab is part of the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) (C4DM) at [Queen Mary University of London](https://www.qmul.ac.uk/), headed by [Dr Charalampos Saitis](http://www.eecs.qmul.ac.uk/people/profiles/saitischaralampos.html). We conduct research into the ways people perceive sound and technologies for improving communication.
+We are the COMMA Lab, a research group led by [Dr Charalampos Saitis](https://www.seresearch.qmul.ac.uk/cmai/people/csaitis/#research) and hosted in the [Centre for Digital Music](http://c4dm.eecs.qmul.ac.uk/) (C4DM) at [Queen Mary University of London](https://www.qmul.ac.uk/). 
 
-We work across disciplines of music, engineering, psychology, and cognitive science to understand and model audio communication between humans and between humans and machines.
+Our research approach blends machine learning and AI with cutting edge experimental and practice-based methods in music cognition and creativity.
+We conduct research into the ways people experience sound and technologies to understand, model and enhance musical interaction between humans and between humans and machines.
+
+<!-- We conduct research into the ways people experience and interact with sound and technologies to understand and model music communication -->
+
+<!-- We work across disciplines of music, engineering, psychology, and cognitive science to understand and model music communication and creativity between humans and between humans and machines. -->
 
 <hr>
 
