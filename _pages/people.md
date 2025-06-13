@@ -27,29 +27,27 @@ nav_order: 1
 
 * [<b>Dr Charalampos Saitis</b>](http://www.eecs.qmul.ac.uk/people/profiles/saitischaralampos.html)
 * [<b>Luca Marinelli</b>](/people/luca/)
-* [<b>Ben Hayes</b>](https://benhayes.net/) (joint supervision with György Fazekas, C4DM)
-* [<b>Vjosa Preniqi</b>](/people/vjosa/) (joint supervision with Kyriaki Kalimeri, ISI Foundation)
+* [<b>Ben Hayes</b>](https://benhayes.net/) (co-supervision with György Fazekas, C4DM)
 * [<b>Bleiz Macsen Del Sette</b>](/people/bleiz/)
 * [<b>Remi Falowo</b>](/people/remi/)
-* [<b>Jincheng Zhang</b>](/people/jincheng/) (joint supervision with György Fazekas, C4DM)
-* [<b>Jordie Shier</b>](https://jordieshier.com/) (joint supervision with Andrew McPherson, Imperial)
-* [<b>Haokun Tian</b>](https://tiianhk.github.io)
-* [<b>Ashley Noel-Hirst</b>](https://ashleynoelhirst.co.uk/) (joint supervision with Nick Bryan-Kinns, UAL)
-* [<b>Yorgos Velissaridis</b>](https://github.com/GeorgeVeliss) (joint supervision with György Fazekas, C4DM)
+* [<b>Jincheng Zhang</b>](/people/jincheng/) (co-supervision with György Fazekas, C4DM)
+* [<b>Jordie Shier</b>](https://jordieshier.com/) (co-supervision with Andrew McPherson, Imperial)
+* [<b>Haokun Tian</b>](https://tiianhk.github.io) (co-supervision with Stefan Lattner, Sony CSL Paris)
+* [<b>Ashley Noel-Hirst</b>](https://ashleynoelhirst.co.uk/) (co-supervision with Nick Bryan-Kinns, UAL)
+* [<b>Yorgos Velissaridis</b>](https://github.com/GeorgeVeliss) (co-supervision with György Fazekas, C4DM)
 
-<h4 class="post-title"><b>Associate members</b></h4>
+<!-- <h4 class="post-title"><b>Associate members</b></h4>
 
 * [<b>Dr Asterios Zacharakis</b>](https://asteriszacharakis.wixsite.com/science)
 * <b>Rodrigo Diaz</b>
 * [<b>Nelly Garcia</b>](https://www.linkedin.com/in/nellyvags0906/?originalSubdomain=uk)
 * <b>Jinjie Shi</b>
 * [<b>Sebastian Löbbers</b>](https://sebastianlobbers.com/)
-* [<b>Cyrus Vahidi</b>](https://cyrusvahidi.com/)
+* [<b>Cyrus Vahidi</b>](https://cyrusvahidi.com/) -->
 
-<h4 class="post-title"><b>Former members</b></h4>
+<h4 class="post-title"><b>Alumni</b></h4>
 
-* <b>Chengye Wu</b>
-* <b>Maryam Torshizi</b> 
+* [<b>Dr Vjosa Preniqi</b>](/people/vjosa/) (co-supervision with Kyriaki Kalimeri, ISI Foundation)
 
 <h4 class="post-title"><b>Former visitors</b></h4>
 
