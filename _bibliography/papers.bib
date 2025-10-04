@@ -6,23 +6,37 @@
 
 %% Saved with string encoding Unicode (UTF-8) 
 
-@inproceedings{luca_ranlp_2025,
-	abbr = {RANLP},
-	year = {2025},
-	author = {Luca Marinelli and Iacopo Ghinassi and Charalampos Saitis},
-	title = {Leveraging RAG for a Low-Resource Audio-Aware Diachronic Analysis of Gendered Toy Marketing},
-	booktitle = {{The first Workshop on Natural Language Processing and Language Models for Digital Humanities @ RANLP 2025}},
-	code = {https://github.com/marinelliluca/low-resource-RAG},
-	abstract = {We performed a diachronic analysis of sound and language in toy commercials, leveraging retrieval-augmented generation (RAG) and open-weight language models in low-resource settings. A pool of 2508 UK toy advertisements spanning 14 years was semi-automatically annotated , integrating thematic coding of transcripts with audio annotation. With our RAG pipeline, we thematically coded and classified commercials by gender-target audience (feminine, masculine, or mixed) achieving substantial inter-coder reliability. In parallel, a music-focused multitask model was applied to annotate affective and mid-level musical perceptual attributes, enabling multimodal discourse analysis. Our findings reveal significant diachronic shifts and enduring patterns. Soundtracks classified as energizing registered an overall increase across distinct themes and audiences, but such increase was steeper for masculine-adjacent commercials. Moreover, themes stereotypically associated with masculinity paired more frequently with louder, distorted, and aggressive music, while stereotypically feminine themes with softer, calmer, and more harmonious soundtracks. Code and data to reproduce the results are available on github.com/marinelliluca/low-resource-RAG.}}
 
-@inproceedings{charis_OHOS_2025,
+@inproceedings{charis_OHOS_2026,
 	abbr = {OHOS},
 	abstract = {Orchestration can have undeniable effects on what listeners hear as changes in auditory brightness. But the precise source of our sensation of brightness in orchestral music is difficult to pinpoint. What is the locus of brightness in terms of perception and orchestration? Moreover, how do separate notions of timbre and orchestration spanning music theory, composition, acoustics, and psychology each offer possible explanations? In this chapter, we attempt to articulate and distinguish between two modes: timbral brightness---the psychophysical perception of brightness in a given instance of sound, and orchestral brightness---the experience of brightness in the configuration and unfolding of orchestral music. We approach the central question from a multidisciplinary vantage, attempting to hold any tensions between the two modes without resolution.},
 	author = {Charalampos Saitis and Kai Siedenburg and Moe Touizrar},
 	editor = {Julie Delisle and Robert Hasegawa and Jason Noble and Moe Touizrar},
 	booktitle = {The Oxford Handbook of Orchestration Studies},
 	title = {Hearing brightness: Multidisciplinary perspectives on a ubiquitous attribute of timbre and orchestration (in press)},
-	year = {2025}}
+	year = {2026}}
+
+
+@inproceedings{yorgos_llm4ma_2025,
+	abbr = {LLM4MA},
+	year = {2025},
+	author = {Georgios Velissaridis and Rajpreet Athwal and Muneeb Musharaf and György Fazekas and Charalampos Saitis},
+	title = {Evaluating Foundation Models On Timbre-Related Cognitive Tasks},
+	booktitle = {1st Workshop on Large Language Models for Music & Audio (LLM4MA) @ ISMIR},
+	abstract = {Foundation models are increasingly applied to MIR tasks, yet their performance on music cognition problems remains underexplored. In this work, we investigate how state-of-the-art audio-language models and large language models (LLMs) perform on timbre-related cognitive tasks. We focus on music emotion recognition which captures listeners’ perceived and induced emotions in response to instrument tones, and run additional tests on instrument recognition. We evaluate contrastive audio-language models (CLAP variants and MuQ-MuLan) in both zero-shot and probe-based settings, and compare their performance with Centaur, a recent LLM fine-tuned on human decision patterns. We further propose a novel inference pipeline that integrates CLAP descriptors as intermediate textual prompts for LLMs. Results show that LLMs, especially Centaur, outperform both zero-shot and probe-trained contrastive models, while the hybrid pipeline yields the best performance overall. Our findings suggest that combining audio-language and language-only models provides a promising direction for modelling music-related cognition, with implications for applications such as music recommendation, generation, and adaptive audio interfaces.},
+	pdf = {https://openreview.net/pdf?id=tXyh8CY9kZ},
+	poster = {Velissaridis_LLM4MA_2025_poster.pdf}}
+
+
+@inproceedings{luca_ranlp_2025,
+	abbr = {RANLP},
+	year = {2025},
+	author = {Luca Marinelli and Iacopo Ghinassi and Charalampos Saitis},
+	title = {Leveraging RAG for a Low-Resource Audio-Aware Diachronic Analysis of Gendered Toy Marketing},
+	booktitle = {{The First Workshop on Natural Language Processing and Language Models for Digital Humanities (LM4DH) @ RANLP}},
+	code = {https://github.com/marinelliluca/low-resource-RAG},
+	abstract = {We performed a diachronic analysis of sound and language in toy commercials, leveraging retrieval-augmented generation (RAG) and open-weight language models in low-resource settings. A pool of 2508 UK toy advertisements spanning 14 years was semi-automatically annotated , integrating thematic coding of transcripts with audio annotation. With our RAG pipeline, we thematically coded and classified commercials by gender-target audience (feminine, masculine, or mixed) achieving substantial inter-coder reliability. In parallel, a music-focused multitask model was applied to annotate affective and mid-level musical perceptual attributes, enabling multimodal discourse analysis. Our findings reveal significant diachronic shifts and enduring patterns. Soundtracks classified as energizing registered an overall increase across distinct themes and audiences, but such increase was steeper for masculine-adjacent commercials. Moreover, themes stereotypically associated with masculinity paired more frequently with louder, distorted, and aggressive music, while stereotypically feminine themes with softer, calmer, and more harmonious soundtracks. Code and data to reproduce the results are available on github.com/marinelliluca/low-resource-RAG.}}
+
 
 @inproceedings{charis_cbmi_2025,
 	abbr = {CBMI},
@@ -31,6 +45,7 @@
 	title = {Predicting moral values in lyrics through audio},
 	booktitle = {{IEEE International Conference on Content-Based Multimedia Indexing}},
 	code = {https://github.com/comma-lab/audio-mft},
+	pdf = {2025338503.pdf},
 	abstract = {This paper introduces the task of music morality recognition—predicting moral values in song lyrics using only audio features, which can be considered a form of music tagging with a set of new and well-defined tags grounded in social and cultural psychology research. Unlike previous research focused on lyrics analysis alone, this approach examines how musical elements correlate with moral content in associated lyrics. We used human-annotated lyrics and a set of experiments with XGBoost classifiers to establish a baseline recognition performance. Despite working with small and imbalanced data, we found audio features often outperformed a state of the art language model fine-tuned to detect moral content in lyrics, with some moral values being more reliably predicted than others in line with related work. SAGE and SHAP analyses revealed that specific timbral, harmonic, and melodic features play a prominent role in audio-lyrics moral associations. These findings advance our understanding of musical semantics and have potential applications in music and multimedia recommender systems and healthcare interventions. We provide a public repository containing all code and data used in this study.}}
 
 @inproceedings{ben_ismir_2025,
@@ -57,10 +72,11 @@
 @inproceedings{ash_aimc_2025,
 	abbr = {AIMC},
 	year = {2025},
-	author = {Ash Noel-Hirst and Charalampos Saitis and Nick Bryan-Kinns},
+	author = {Ashley Noel-Hirst and Charalampos Saitis and Nick Bryan-Kinns},
 	title = {Sampling the latent space: exploring the creative potential of generative AI through the lens of sample-based music making},
 	booktitle = {{Conference on AI Music Creativity}},
-	abstract = {Sample-based composition is a century-old practice in which artists repurpose existing sounds to create new music. As generative AI (GenAI) systems increasingly reuse existing material, they are often compared to sampling and remix practices. In this paper, we draw on the relatively mature tradition of sampling to address a key concern of GenAI: how can a tool which is dependent on the recycling of existing art support meaningful creativity? We present an ethnography and thematic analysis of a sample-based music community, connecting these insights to contemporary challenges in GenAI design. We discuss how designers might support artists in engaging with environmental, fictional, communal, and agential dimensions of GenAI models and data, building on literature about sample-based music to speak not only to generative music but to GenAI systems more broadly.}}
+	pdf = {https://zenodo.org/records/16946825},
+	abstract = {Sample-based composition is a century-old practice in which artists repurpose existing sounds to create new music. As generative AI (GenAI) systems increasingly reuse existing material, they are often compared to sampling and remix practices. In this paper, we draw on the relatively mature tradition of sampling to address a key concern of GenAI: how might a tool which is dependent on the recycling of existing art support meaningful creativity? We present an ethnography and thematic analysis of a sample-based music community, connecting these insights to contemporary opportunities and challenges in GenAI design. We discuss how designers might support artists in engaging with environmental, fictional, communal, and agential dimensions of GenAI models and data, building on literature about sample-based music to speak not only to generative music but to GenAI systems more broadly.}}
 
 @inproceedings{jordie_nime_2025,
 	abbr = {NIME},
@@ -85,6 +101,7 @@
 	author = {Lewis Wolstanholme and Jordie Shier and Rodrigo Constanzo and Andrew McPherson},
 	title = {{Drum Modal Feedback: Concept Design of an Augmented Percussion Instrument}},
 	booktitle = {{International Conference on New Interfaces for Musical Expression}},
+	pdf = {https://nime.org/proceedings/2025/nime2025_15.pdf},
 	abstract = {We here outline the concept design of an augmented percussion instrument, conceived for and used as part of a variety of distinct performances and compositions. Throughout the curation of this project, each creative act has enabled us to contextualise, examine and reflect upon the design of this augmented instrument. In accordance with Stolterman and Wiberg’s concept driven design methodology, we do not present a singular instrument design, but instead an overarching design concept alongside its developmental and evaluative narrative. This augmentation centres upon the use of a drum trigger and a tactile transducer, which when coupled together can be used to feedback or resonate a drum. The resultant soundworld develops upon the idiomatic sonority of a drum, and allows for the duration and timbre of a drum strike to be continuously manipulated and shaped throughout a performance. In exploring the soundworld which results from this approach, we have experimented with numerous configurations of these pieces of hardware, and have also employed various pieces of software to parametrise the sonic subtleties that this approach engenders. Most prominently, we have developed a bespoke piece of software which analyses the modes of a drum prior to performance, and uses this modal analysis to shape the overall feedback and resonance. Throughout this design process, we have consistently been met with new creative criteria that challenge our approach and ideas, in response to the particularities of the musicians we are working alongside, as well as the performative and aesthetic environments we are working within.}}
 
 @inproceedings{jincheng_ijcnn_2025,
@@ -111,6 +128,7 @@
 	year = {2025},
 	author = {Tug F. O'Flaherty and Luigi Marino and Charalampos Saitis and Anna Xambó Sedó},
 	website = {https://sites.google.com/view/sonicolour-sc-1},
+	pdf = {https://nime.org/proceedings/2025/nime2025_67.pdf},
 	title = {{Sonicolour: Exploring colour control of sound synthesis with interactive machine learning}},
 	booktitle = {{International Conference on New Interfaces for Musical Expression}},
 	abstract = {This paper explores crossmodal mappings of colour to sound. The instrument presented analyses the colour of physical objects via a colour light-to-frequency sensor and maps the corresponding red, green, and blue data values to parameters of a synthesiser. Interactive machine learning is used to facilitate the discovery of new relationships between sound and colour. The role of interactive machine learning is to find unexpected relationships between the visual features of the objects and the sound synthesis. The performance is evaluated by its ability to provide the user with a playful interaction between the visual and tactile exploration of coloured objects, and the generation of synthetic sounds. We conclude by outlining the potential of this approach for musical interaction design and music performance.}}
