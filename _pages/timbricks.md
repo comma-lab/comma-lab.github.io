@@ -1,11 +1,10 @@
 ---
 layout: page
-title: timbricks
+title: Timbricks
 hide_header: false
 permalink: /timbricks/
 nav: false
 nav_order: 4
-
 ---
 
 <!-- pages/projects.md -->
