@@ -4,7 +4,7 @@ title: timbricks
 hide_header: false
 permalink: /timbricks/
 nav: false
-nav_order: 1
+nav_order: 4
 
 ---
 
@@ -25,8 +25,4 @@ nav_order: 1
 
 <h4 class="post-title"><b>Coming Soon</b></h4>
 
-
-
 <h4 class="post-title"><b>Keep Calm and Timbre On</b></h4>
-
-
