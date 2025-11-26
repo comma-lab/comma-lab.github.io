@@ -26,7 +26,7 @@ jobs:
     - name: Uninstall conflicting uri gem
       run: gem uninstall uri -v 0.10.1
     - name: Install required uri gem
-      run: gem install uri -v 1.0.3
+      run: gem install uri -v 1.1.1
     - name: Install deps
       run: npm install -g mermaid.cli
     - name: Setup deploy options
