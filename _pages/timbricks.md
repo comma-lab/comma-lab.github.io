@@ -4,7 +4,7 @@ title: Timbricks
 hide_header: false
 permalink: /timbricks/
 nav: false
-nav_order: 4
+nav_order: 5
 ---
 
 <!-- pages/projects.md -->
