@@ -3,7 +3,7 @@ layout: page
 title: Timbricks
 hide_header: false
 permalink: /timbricks/
-nav: true
+nav: false
 nav_order: 5
 # groups: [Members]
 ---
