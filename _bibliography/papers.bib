@@ -7,6 +7,143 @@
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+@inproceedings{charis_OHOS_2026,
+	abbr = {OHOS},
+	abstract = {Orchestration can have undeniable effects on what listeners hear as changes in auditory brightness. But the precise source of our sensation of brightness in orchestral music is difficult to pinpoint. What is the locus of brightness in terms of perception and orchestration? Moreover, how do separate notions of timbre and orchestration spanning music theory, composition, acoustics, and psychology each offer possible explanations? In this chapter, we attempt to articulate and distinguish between two modes: timbral brightness---the psychophysical perception of brightness in a given instance of sound, and orchestral brightness---the experience of brightness in the configuration and unfolding of orchestral music. We approach the central question from a multidisciplinary vantage, attempting to hold any tensions between the two modes without resolution.},
+	author = {Charalampos Saitis and Kai Siedenburg and Moe Touizrar},
+	editor = {Julie Delisle and Robert Hasegawa and Jason Noble and Moe Touizrar},
+	booktitle = {The Oxford Handbook of Orchestration Studies},
+	title = {Hearing brightness: Multidisciplinary perspectives on a ubiquitous attribute of timbre and orchestration (in press)},
+	year = {2026}}
+
+
+@inproceedings{yorgos_llm4ma_2025,
+	abbr = {LLM4MA},
+	year = {2025},
+	author = {Georgios Velissaridis and Rajpreet Athwal and Muneeb Musharaf and György Fazekas and Charalampos Saitis},
+	title = {Evaluating Foundation Models On Timbre-Related Cognitive Tasks},
+	booktitle = {1st Workshop on Large Language Models for Music & Audio (LLM4MA) @ ISMIR},
+	abstract = {Foundation models are increasingly applied to MIR tasks, yet their performance on music cognition problems remains underexplored. In this work, we investigate how state-of-the-art audio-language models and large language models (LLMs) perform on timbre-related cognitive tasks. We focus on music emotion recognition which captures listeners’ perceived and induced emotions in response to instrument tones, and run additional tests on instrument recognition. We evaluate contrastive audio-language models (CLAP variants and MuQ-MuLan) in both zero-shot and probe-based settings, and compare their performance with Centaur, a recent LLM fine-tuned on human decision patterns. We further propose a novel inference pipeline that integrates CLAP descriptors as intermediate textual prompts for LLMs. Results show that LLMs, especially Centaur, outperform both zero-shot and probe-trained contrastive models, while the hybrid pipeline yields the best performance overall. Our findings suggest that combining audio-language and language-only models provides a promising direction for modelling music-related cognition, with implications for applications such as music recommendation, generation, and adaptive audio interfaces.},
+	pdf = {https://openreview.net/pdf?id=tXyh8CY9kZ},
+	poster = {Velissaridis_LLM4MA_2025_poster.pdf}}
+
+
+@inproceedings{luca_ranlp_2025,
+	abbr = {RANLP},
+	year = {2025},
+	author = {Luca Marinelli and Iacopo Ghinassi and Charalampos Saitis},
+	title = {Leveraging RAG for a Low-Resource Audio-Aware Diachronic Analysis of Gendered Toy Marketing},
+	booktitle = {{The First Workshop on Natural Language Processing and Language Models for Digital Humanities (LM4DH) @ RANLP}},
+	code = {https://github.com/marinelliluca/low-resource-RAG},
+	abstract = {We performed a diachronic analysis of sound and language in toy commercials, leveraging retrieval-augmented generation (RAG) and open-weight language models in low-resource settings. A pool of 2508 UK toy advertisements spanning 14 years was semi-automatically annotated , integrating thematic coding of transcripts with audio annotation. With our RAG pipeline, we thematically coded and classified commercials by gender-target audience (feminine, masculine, or mixed) achieving substantial inter-coder reliability. In parallel, a music-focused multitask model was applied to annotate affective and mid-level musical perceptual attributes, enabling multimodal discourse analysis. Our findings reveal significant diachronic shifts and enduring patterns. Soundtracks classified as energizing registered an overall increase across distinct themes and audiences, but such increase was steeper for masculine-adjacent commercials. Moreover, themes stereotypically associated with masculinity paired more frequently with louder, distorted, and aggressive music, while stereotypically feminine themes with softer, calmer, and more harmonious soundtracks. Code and data to reproduce the results are available on github.com/marinelliluca/low-resource-RAG.}}
+
+
+@inproceedings{charis_cbmi_2025,
+	abbr = {CBMI},
+	year = {2025},
+	author = {Charalampos Saitis and Ben Heyderman and Vjosa Preniqi and Kyriaki Kalimeri and Johan Pauwels},
+	title = {Predicting moral values in lyrics through audio},
+	booktitle = {{IEEE International Conference on Content-Based Multimedia Indexing}},
+	code = {https://github.com/comma-lab/audio-mft},
+	pdf = {2025338503.pdf},
+	abstract = {This paper introduces the task of music morality recognition—predicting moral values in song lyrics using only audio features, which can be considered a form of music tagging with a set of new and well-defined tags grounded in social and cultural psychology research. Unlike previous research focused on lyrics analysis alone, this approach examines how musical elements correlate with moral content in associated lyrics. We used human-annotated lyrics and a set of experiments with XGBoost classifiers to establish a baseline recognition performance. Despite working with small and imbalanced data, we found audio features often outperformed a state of the art language model fine-tuned to detect moral content in lyrics, with some moral values being more reliably predicted than others in line with related work. SAGE and SHAP analyses revealed that specific timbral, harmonic, and melodic features play a prominent role in audio-lyrics moral associations. These findings advance our understanding of musical semantics and have potential applications in music and multimedia recommender systems and healthcare interventions. We provide a public repository containing all code and data used in this study.}}
+
+@inproceedings{ben_ismir_2025,
+	abbr = {ISMIR},
+	year = {2025},
+	author = {Ben Hayes and Charalampos Saitis and György Fazekas},
+	title = {Audio synthesizer inversion in symmetric parameter spaces with approximately equivariant flow matching},
+	booktitle = {{International Society for Music Information Retrieval Conference}},
+	arxiv = {2506.07199},
+	code = {https://github.com/ben-hayes/synth-permutations},
+	tryit = {https://benhayes.net/synth-perm/},
+	abstract = {Many audio synthesizers can produce the same signal given different parameter configurations, meaning the inversion from sound to parameters is an inherently ill-posed problem. We show that this is largely due to intrinsic symmetries of the synthesizer, and focus in particular on permutation invariance. First, we demonstrate on a synthetic task that regressing point estimates under permutation symmetry degrades performance, even when using a permutation-invariant loss function or symmetry-breaking heuristics. Then, viewing equivalent solutions as modes of a probability distribution, we show that a conditional generative model substantially improves performance. Further, acknowledging the invariance of the implicit parameter distribution, we find that performance is further improved by using a permutation equivariant continuous normalizing flow. To accommodate intriciate symmetries in real synthesizers, we also propose a relaxed equivariance strategy that adaptively discovers relevant symmetries from data. Applying our method to Surge XT, a full-featured open source synthesizer used in real world audio production, we find our method outperforms regression and generative baselines across audio reconstruction metrics.}}
+
+@inproceedings{haokun_ismir_2025,
+	abbr = {ISMIR},
+	year = {2025},
+	author = {Haokun Tian and Stefan Lattner and Charalampos Saitis},
+	title = {Assessing the alignment of audio representations with timbre similarity ratings},
+	booktitle = {{International Society for Music Information Retrieval Conference}},
+	arxiv = {2507.07764},
+	code = {https://github.com/tiianhk/timbremetrics},
+	abstract = {Psychoacoustical so-called "timbre spaces" map perceptual similarity ratings of instrument sounds onto low-dimensional embeddings via multidimensional scaling, but suffer from scalability issues and are incapable of generalization. Recent results from audio (music and speech) quality assessment as well as image similarity have shown that deep learning is able to produce embeddings that align well with human perception while being largely free from these constraints. Although the existing human-rated timbre similarity data is not large enough to train deep neural networks (2,614 pairwise ratings on 334 audio samples), it can serve as test-only data for audio models. In this paper, we introduce metrics to assess the alignment of diverse audio representations with human judgments of timbre similarity by comparing both the absolute values and the rankings of embedding distances to human similarity ratings. Our evaluation involves three signal-processing-based representations, twelve representations extracted from pre-trained models, and three representations extracted from a novel sound matching model. Among them, the style embeddings inspired by image style transfer, extracted from the CLAP model and the sound matching model, remarkably outperform the others, showing their potential in modeling timbre similarity.}}
+
+@inproceedings{ash_aimc_2025,
+	abbr = {AIMC},
+	year = {2025},
+	author = {Ashley Noel-Hirst and Charalampos Saitis and Nick Bryan-Kinns},
+	title = {Sampling the latent space: exploring the creative potential of generative AI through the lens of sample-based music making},
+	booktitle = {{Conference on AI Music Creativity}},
+	pdf = {https://zenodo.org/records/16946825},
+	abstract = {Sample-based composition is a century-old practice in which artists repurpose existing sounds to create new music. As generative AI (GenAI) systems increasingly reuse existing material, they are often compared to sampling and remix practices. In this paper, we draw on the relatively mature tradition of sampling to address a key concern of GenAI: how might a tool which is dependent on the recycling of existing art support meaningful creativity? We present an ethnography and thematic analysis of a sample-based music community, connecting these insights to contemporary opportunities and challenges in GenAI design. We discuss how designers might support artists in engaging with environmental, fictional, communal, and agential dimensions of GenAI models and data, building on literature about sample-based music to speak not only to generative music but to GenAI systems more broadly.}}
+
+@inproceedings{jordie_nime_2025,
+	abbr = {NIME},
+	year = {2025},
+	author = {Jordie Shier and Rodrigo Constanzo and Charalampos Saitis and Andrew Robertson and Andrew McPherson},
+	title = {{Designing Percussive Timbre Remappings: Negotiating Audio Representations and Evolving Parameter Spaces}},
+	booktitle = {{International Conference on New Interfaces for Musical Expression}},
+	website = {https://jordieshier.com/projects/nime2025/},
+	abstract = {Timbre remapping is an approach to audio-to-synthesizer parameter mapping that aims to transfer timbral expressions from a source instrument onto synthesizer controls. This process is complicated by the ill-defined nature of timbre and the complex relationship between synthesizer parameters and their sonic output. In this work, we focus on real-time timbre remapping with percussion instruments, combining technical development with practice-based methods to address these challenges. As a technical contribution, we introduce a genetic algorithm -- applicable to black-box synthesizers including VSTs and modular synthesizers -- to generate datasets of synthesizer presets that vary according to target timbres. Additionally, we propose a neural network-based approach to predict control features from short onset windows, enabling low-latency performance and feature-based control. Our technical development is grounded in musical practice, demonstrating how iterative and collaborative processes can yield insights into open-ended challenges in DMI design. Experiments on various audio representations uncover meaningful insights into timbre remapping by coupling data-driven design with practice-based reflection. This work is accompanied by an annotated portfolio, presenting a series of musical performances and experiments with reflections.}}
+
+@inproceedings{jordie_nime_music_2025,
+	abbr = {NIME},
+	year = {2025},
+	author = {Jordie Shier and Xiaowan Yi},
+	title = {{Diffy}},
+	booktitle = {{International Conference on New Interfaces for Musical Expression Music Track}},
+	abstract = {Diffy is a duo music project comprising a drummer and a sound designer, connected by a set of machine learning-based sound design agents. In this project, we explore and juxtapose a set of three machine learning-based techniques for manipulating the timbral qualities of percussion instruments in real-time with low-latency. These techniques include a neural audio synthesizer trained on non-percussive material, a timbre remapping 808 drum synthesizer, and a modular synthesizer controlled by a neural network. Each sound design agent operates on different modes of timbral understanding -- reacting to the drum performance based on this understanding, and suggesting sonic transformations. Sonic negotiations between the human sound designer and the sound-design agent are relayed back to the drummer, creating a feedback loop that shapes a structured improvisation.}}
+
+@inproceedings{lewis_nime_2025,
+	abbr = {NIME},
+	year = {2025},
+	author = {Lewis Wolstanholme and Jordie Shier and Rodrigo Constanzo and Andrew McPherson},
+	title = {{Drum Modal Feedback: Concept Design of an Augmented Percussion Instrument}},
+	booktitle = {{International Conference on New Interfaces for Musical Expression}},
+	pdf = {https://nime.org/proceedings/2025/nime2025_15.pdf},
+	abstract = {We here outline the concept design of an augmented percussion instrument, conceived for and used as part of a variety of distinct performances and compositions. Throughout the curation of this project, each creative act has enabled us to contextualise, examine and reflect upon the design of this augmented instrument. In accordance with Stolterman and Wiberg’s concept driven design methodology, we do not present a singular instrument design, but instead an overarching design concept alongside its developmental and evaluative narrative. This augmentation centres upon the use of a drum trigger and a tactile transducer, which when coupled together can be used to feedback or resonate a drum. The resultant soundworld develops upon the idiomatic sonority of a drum, and allows for the duration and timbre of a drum strike to be continuously manipulated and shaped throughout a performance. In exploring the soundworld which results from this approach, we have experimented with numerous configurations of these pieces of hardware, and have also employed various pieces of software to parametrise the sonic subtleties that this approach engenders. Most prominently, we have developed a bespoke piece of software which analyses the modes of a drum prior to performance, and uses this modal analysis to shape the overall feedback and resonance. Throughout this design process, we have consistently been met with new creative criteria that challenge our approach and ideas, in response to the particularities of the musicians we are working alongside, as well as the performative and aesthetic environments we are working within.}}
+
+@inproceedings{jincheng_ijcnn_2025,
+	abbr = {IJCNN},
+	year = {2025},
+	author = {Zhang, Jincheng and Fazekas, Gy{\"o}rgy and Saitis, Charalampos},
+	title = {{Mamba-diffusion model with learnable wavelet for controllable symbolic music generation}},
+	booktitle = {{International Joint Conference on Neural Networks}},
+	code = {https://github.com/jinchengzhanggg/proffusion},
+	arxiv = {2505.03314},
+	abstract = {The recent surge in the popularity of diffusion models for image synthesis has attracted new attention to their potential for generation tasks in other domains. However, their applications to symbolic music generation remain largely under-explored because symbolic music is typically represented as sequences of discrete events and standard diffusion models are not well-suited for discrete data. We represent symbolic music as image-like pianorolls, facilitating the use of diffusion models for the generation of symbolic music. Moreover, this study introduces a novel diffusion model that incorporates our proposed Transformer-Mamba block and learnable wavelet transform. Classifier-free guidance is utilised to generate symbolic music with target chords. Our evaluation shows that our method achieves compelling results in terms of music quality and controllability, outperforming the strong baseline in pianoroll generation.}}
+
+@inproceedings{charis_nime_2025,
+	abbr = {NIME},
+	year = {2025},
+	author = {Charalampos Saitis and Courtney N Reed and Ashley Noel-Hirst and Giacomo Lepri and Andrew McPherson},
+	title = {{(De)Constructing timbre at NIME: Reflecting on technology and aesthetic entanglements in instrument design}},
+	booktitle = {{International Conference on New Interfaces for Musical Expression}},
+	abstract = {Timbre, pitch, and timing are often relevant in digital musical instrument (DMI) design. Amongst the three, timbre is the most difficult to define and discretise when negotiating audio repre- sentations and gesture-sound mappings. We conduct a corpus-assisted discourse analysis of ``timbre'' in all NIME proceedings to date (2001–2024). Combining this with a detailed review of 18 timbre-focused papers, we examine how definitions of timbre and timbre interaction methods are constructed through, for instance, Wessel's numerical timbre control space, synthesis tools and programming languages, machine learning and AI approaches, and other trends in digital lutherie practices. While acknowledging the practical utility of technical constructions of timbre in NIME (and other digital music research communities), we contribute discussion on the entanglement of technology and aesthetics in instrument design, which constitutes what ``timbre' becomes in NIME research, and reflect on the tension between technoscientific and constructivist understandings of timbre: how DMIs and musical practices have been reconstituted around particular timbral values operationalised in NIME. In response, we propose ways that the community can embrace more critical approaches and awareness to how our methods and tools shape and co-create our notions of timbre, as well as other musical concepts, connecting more openly with diverse types of sonic phenomena.},
+	pdf = {nime2025_75_camera_ready.pdf}}
+
+@inproceedings{tug_nime_2025,
+	abbr = {NIME},
+	year = {2025},
+	author = {Tug F. O'Flaherty and Luigi Marino and Charalampos Saitis and Anna Xambó Sedó},
+	website = {https://sites.google.com/view/sonicolour-sc-1},
+	pdf = {https://nime.org/proceedings/2025/nime2025_67.pdf},
+	title = {{Sonicolour: Exploring colour control of sound synthesis with interactive machine learning}},
+	booktitle = {{International Conference on New Interfaces for Musical Expression}},
+	abstract = {This paper explores crossmodal mappings of colour to sound. The instrument presented analyses the colour of physical objects via a colour light-to-frequency sensor and maps the corresponding red, green, and blue data values to parameters of a synthesiser. Interactive machine learning is used to facilitate the discovery of new relationships between sound and colour. The role of interactive machine learning is to find unexpected relationships between the visual features of the objects and the sound synthesis. The performance is evaluated by its ability to provide the user with a playful interaction between the visual and tactile exploration of coloured objects, and the generation of synthetic sounds. We conclude by outlining the potential of this approach for musical interaction design and music performance.}}
+
+@article{franco_jaes_2025,
+	abbr = {JAES},
+	abstract = {Neural Audio Synthesis (NAS) models offer interactive musical control over high-quality, expressive audio generators. While these models can operate in real-time, they often suffer from high latency, making them unsuitable for intimate musical interaction. The impact of architectural choices in deep learning models on audio latency remains largely unexplored in the NAS literature. In this work, we investigate the sources of latency and jitter typically found in interactive NAS models. We then apply this analysis to the task of timbre transfer using RAVE, a convolutional variational autoencoder for audio waveforms introduced by Caillon et al. in 2021. Finally, we present an iterative design approach for optimizing latency. This culminates with a model we call BRAVE (Bravely Realtime Audio Variational autoEncoder), which is low-latency and exhibits better pitch and loudness replication while showing timbre modification capabilities similar to RAVE. We implement it in a specialized inference framework for low-latency, real-time inference and present a proof-of-concept audio plugin compatible with audio signals from musical instruments. We expect the challenges and guidelines described in this document to support NAS researchers in designing models for low-latency inference from the ground up, enriching the landscape of possibilities for musicians.},
+	author = {Franco Caspe and Jordie Shier and Mark Sandler and Charalampos Saitis and Andrew McPherson},
+	journal = {Journal of the Audio Engineering Society},
+	title = {Designing neural synthesizers for low latency interaction (in press)},
+	pdf = {https://arxiv.org/abs/2503.11562},
+ 	code = {https://github.com/fcaspe/BRAVE},
+	tryit = {https://fcaspe.github.io/BravePlugin/},
+	year = {2025}}
+
 @inproceedings{haokun_icassp_2025,
 	abbr = {ICASSP},
 	year = {2025},
@@ -24,6 +161,14 @@
 	journal = {Musik-, Tanz- \& Kunsttherapie},
 	title = {Colored timbres: Do crossmodal correspondences between musical instrument sounds and visual colors rather depend on pitch instead of timbre?},
 	pdf = {Colored_timbres_MTK_2024-2.pdf},
+	year = {2024}}
+
+@inproceedings{charis_chime_2024,
+	abbr = {CHIME},
+	author = {Charalampos Saitis and Bleiz Macsen Del Sette and Jordie Shier and Haokun Tian and Shuoyang Zheng and Sophie Skach and Courtney N Reed, and Corey Ford},
+	booktitle = {Annual Workshop of the Music and Human-Computer Interaction Networks (CHIME)},
+	title = {Ethnographic exploration of timbre in hackathon designs},
+	abstract = {https://static1.squarespace.com/static/6227c31a43daf21135453605/t/6734b6d5b882961f8ec04316/1731507925478/6+Charalampos+Saitis+et+al.pdf},
 	year = {2024}}
 
 @article{huge_survey_foundation_models_2024,
@@ -71,6 +216,7 @@
 	title = {Automatic detection of moral values in music lyrics},
 	booktitle = {{International Society for Music Information Retrieval Conference}},
 	arxiv = {2407.18787},
+	tryit = {https://huggingface.co/spaces/vjosap/MoralBERTApp},
 	year = {2024}}
 
 @inproceedings{vjosa_MoralBERT_2024,
@@ -82,6 +228,7 @@
 	booktitle = {ACM International Conference on Information Technology for Social Good},
 	code = {https://github.com/vjosapreniqi/MoralBERT},
 	arxiv = {2403.07678},
+	tryit = {https://huggingface.co/spaces/vjosap/MoralBERTApp},
 	year = {2024}}
 
 @inproceedings{jincheng_MLSP_2024,
@@ -91,6 +238,8 @@
 	journal = {arXiv},
 	abstract = {Emerging Denoising Diffusion Probabilistic Models (DDPM) have become increasingly utilised because of promising results they have achieved in diverse generative tasks with continuous data, such as image and sound synthesis. Nonetheless, the success of diffusion models has not been fully extended to discrete symbolic music. We propose to combine a vector quantized variational autoencoder (VQ-VAE) and discrete diffusion models for the generation of symbolic music with desired composer styles. The trained VQ-VAE can represent symbolic music as a sequence of indexes that correspond to specific entries in a learned codebook. Subsequently, a discrete diffusion model is used to model the VQ-VAE's discrete latent space. The diffusion model is trained to generate intermediate music sequences consisting of codebook indexes, which are then decoded to symbolic music using the VQ-VAE's decoder. The evaluation results demonstrate our model can generate symbolic music with target composer styles that meet the given conditions with a high accuracy of 72.36\%. Our code is available at [URL will be provided here].},
 	booktitle = {IEEE International Workshop on Machine Learning for Signal Processing},
+	pdf = {https://arxiv.org/pdf/2310.14044},
+	code = {https://github.com/jinchengzhanggg/VQVAE-Diffusion},
 	year = {2024}}
 
 @inproceedings{charis_dgm_2024,
@@ -227,6 +376,14 @@
   year = {2023},
   abstract = {Music has always been an integral part of our everyday lives through which we express feelings, emotions, and concepts. Here, we explore the association between music genres, demographics and moral values employing data from an ad-hoc online survey and the Music Learning Histories Dataset. To further characterise the music preferences of the participants the generalist/specialist (GS) score employed. We exploit both classification and regression approaches to assess the predictive power of music preferences for the prediction of demographic attributes as well as the moral values of the participants. Our findings point out that moral values are hard to predict (.62 AUROC_avg) solely by the music listening behaviours, while if basic sociodemographic information is provided the prediction score rises to 4% on average (.66 AUROC_avg), with the Purity foundation to be the one that is steadily the one with the highest accuracy scores. Similar results are obtained from the regression analysis. Finally, we provide with insights on the most predictive music behaviours associated with each moral value that can inform a wide range of applications from rehabilitation practices to communication campaign design.},
   pdf = {Preniqi_CMMR_SpringerLNCS_2023.pdf}}
+
+@article{bindi2023ai,
+	abbr = {Preprint},
+  	author={Bindi, Giovanni and Demerl{\'e}, Nils and Diaz, Rodrigo and Genova, David and Golvet, Ali{\'e}nor and Hayes, Ben and Huang, Jiawen and Liu, Lele and Martos, Vincent and Nabi, Sarah and Teresa Pelinski and Lenny Renault and Saurjya Sarkar and Pedro Sarmento and Cyrus Vahidi and Lewis Wolstanholme and Yixiao Zhang and Axel Roebel and Nick Bryan-Kinns and Jean-Louis Giavitto and Mathieu Barthet},
+	title={AI (r)evolution -- where are we heading? Thoughts about the future of music and sound technologies in the era of deep learning},
+	journal={arXiv},
+  	year={2023},
+	arxiv = {2310.18320}}
 
 @article{jincheng_preprint_2023_b,
 	abbr = {Preprint},
