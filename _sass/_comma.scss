@@ -37,12 +37,17 @@
 }
 
 .grid-item-people {
-  // padding: 5px;
-  padding: 0; /* Remove gaps between cards */
+  padding: 0;
+  display: flex; /* Make it a flex container */
 }
 
-.grid-item-people > .card {
-  // height: 400px; /* Changed from 100% to fixed height */
+.grid-item-people > a {
+  width: 100%; /* Make the link take full width */
+  display: flex; /* Make link a flex container */
+}
+
+.grid-item-people > a > .card {
+  width: 100%; /* Card takes full width of link */
   aspect-ratio: 1 / 1;
   display: flex;
   flex-direction: column;
@@ -50,14 +55,14 @@
   border: 2px solid black;
 }
 
-.grid-item-people > .card .card-body {
+.grid-item-people > a > .card .card-body {
   flex: 1;
   overflow: hidden;
   display: flex;
   flex-direction: column;
 }
 
-.grid-item-people > .card .card-text {
+.grid-item-people > a > .card .card-text {
   flex: 1;
   overflow: hidden;
   text-overflow: ellipsis;
