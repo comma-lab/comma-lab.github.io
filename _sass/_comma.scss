@@ -68,6 +68,10 @@
   text-overflow: ellipsis;
 }
 
+.grid-item-people > a > .card.hoverable {
+  box-shadow: none;
+}
+
 // .grid-item-people > .card {
 //   height: 100%;
 // }
