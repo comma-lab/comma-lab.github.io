@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Work by COMMA Lab members
+title: Research
+permalink: /research/
+description:
 nav: true
 nav_order: 2
 horizontal: false
