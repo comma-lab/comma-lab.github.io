@@ -57,6 +57,11 @@ nav_order: 1
 
 <!-- 2022-23 -->
 
+* <b>Amelia Stern</b> (QMUL MSc project 2025)
+* <b>Weixiong Chen</b> (QMUL MSc project 2025)
+* <b>Jiahui	Ye</b> (QMUL MSc project 2025)
+* <b>Aadarsh Priyadarshi</b> (QMUL MSc project 2025)
+* <b>Arvind Selvaraj</b> (QMUL MSc project 2025)
 * <b>Ben Heyderman</b> (QMUL MSc project 2024)
 * <b>Dmitriy Tsarev</b> (QMUL MSc project 2024)
 * <b>Rui Yang</b> (QMUL MSc project 2024)
