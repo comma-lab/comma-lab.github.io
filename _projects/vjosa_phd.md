@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Insert PhD Project Title
-description: Vjosa Preniqi
-img: Add image
+title: DECODING MORAL VALUES IN POPULAR MUSIC
+description: PhD Research Vjosa Preniqi
 order: 6
 redirect: Remove if not redirecting
-display: false
+display: true
 ---
 
-Insert markdown content
+<!-- Insert markdown content -->
