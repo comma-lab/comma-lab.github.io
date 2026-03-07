@@ -53,16 +53,15 @@
   flex-direction: column;
   overflow: hidden;
   border: 1px solid rgba(0,0,0,.2);
-  // border-radius: 13px;
+  justify-content: center; /* Horizontal center */
+  align-items: center;     /* Vertical center */
 }
 
 .grid-item-people > a > .card .card-body {
   flex: 1;
   overflow: hidden;
   display: flex;
-  flex-direction: column;
-  justify-content: center; /* Horizontal center */
-  align-items: center;     /* Vertical center */
+  flex-direction: column; 
 }
 
 .grid-item-people > a > .card .card-text {
