@@ -38,9 +38,16 @@
 
 .grid-item-people {
   // padding: 5px;
-  padding: 0 !important; /* Remove gaps between cards */
-
+  padding: 0; /* Remove gaps between cards */
 }
+
+.grid-item-people > .card {
+  height: 400px; /* Changed from 100% to fixed height */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
 
 // .grid-item-people > .card {
 //   height: 100%;
@@ -62,23 +69,19 @@
   margin-left: -10px;
 }
 
-.fixed-height-card {
-  border: 2px solid black;
-  height: 400px; /* Fixed height - adjust as needed */
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-}
+// .fixed-height-card {
+//   border: 2px solid black;
+//   height: 400px; /* Fixed height - adjust as needed */
+//   display: flex;
+//   flex-direction: column;
+//   overflow: hidden;
+// }
 
 .fixed-height-card .card-body {
   flex: 1;
   overflow: hidden;
   display: flex;
   flex-direction: column;
-}
-
-.fixed-height-card .card-title {
-  flex-shrink: 0;
 }
 
 .fixed-height-card .card-text {
