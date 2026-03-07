@@ -58,7 +58,7 @@
 }
 
 .grid-item-people > a > .card .card-body {
-  flex: 0 1 auto !important;
+  flex: 1;
   margin: auto;
   overflow: hidden;
   display: flex;
@@ -67,7 +67,7 @@
 }
 
 .grid-item-people > a > .card .card-text {
-  flex: 0 1 auto;
+  flex: 1;
   overflow: hidden;
   text-overflow: ellipsis;
 }
