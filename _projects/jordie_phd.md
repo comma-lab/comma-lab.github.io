@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Real-time Timbral Mapping for Synthesized Percussive Performance
+title: Real-time Percussive Timbral Remapping
 description: PhD Research Jordie Shier
 order: 5
 redirect: Remove if not redirecting
