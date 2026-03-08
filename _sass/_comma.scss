@@ -52,7 +52,6 @@
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  justify-content: center;
   align-items: center;
   text-align: center;
 }
@@ -60,6 +59,7 @@
 .grid-item-people > a > .card .card-body {
   flex: 1;
   margin: auto;
+  justify-content: center !important;
   overflow: hidden;
   display: flex;
   flex-direction: column; 
