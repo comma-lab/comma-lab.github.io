@@ -34,7 +34,7 @@ nav_order: 1
 * [<b>Jordie Shier</b>](https://jordieshier.com/) (co-supervision with Andrew McPherson, Imperial)
 * [<b>Haokun Tian</b>](https://tiianhk.github.io) (co-supervision with Stefan Lattner, Sony CSL Paris)
 * [<b>Ashley Noel-Hirst</b>](https://ashleynoelhirst.co.uk/) (co-supervision with Nick Bryan-Kinns, UAL)
-* [<b>Yorgos Velissaridis</b>](https://github.com/GeorgeVeliss) (co-supervision with György Fazekas, C4DM)
+* [<b>Georgios Velissaridis</b>](https://github.com/GeorgeVeliss) (co-supervision with György Fazekas, C4DM)
 
 <!-- <h4 class="post-title"><b>Associate members</b></h4>
 
