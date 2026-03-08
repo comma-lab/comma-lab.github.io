@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Auditory Brightness Perception
+title: Brightness Perception for Musical Instrument Sounds 
 description:
-img: Add image
 order: 8
 redirect: Remove if not redirecting
-display: false
+display: true
 ---
 
 Insert markdown content
+- work with Kai
+- work with Drouzas
+- work with Zach
