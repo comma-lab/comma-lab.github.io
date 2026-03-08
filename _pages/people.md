@@ -51,7 +51,9 @@ nav_order: 1
 
 <h4 class="post-title"><b>Former visitors</b></h4>
 
-* [<b>Dr Montserrat Pàmies-Vilà</b>](https://iwk.mdw.ac.at/montserrat-pamies-vila/) 
+* [<b>Dr Montserrat Pàmies-Vilà</b>](https://iwk.mdw.ac.at/montserrat-pamies-vila/)
+* Rajpreet Athwal (Google DeepMind Research Ready UG placement 2025)
+* Muneeb Musharaf (Google DeepMind Research Ready UG placement 2025)
 
 <h4 class="post-title"><b>Former UG/MSc project students</b></h4>
 
