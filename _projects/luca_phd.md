@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Gender-coded sound"
-description: Luca Marinelli
-img: Add image
+title: Gender Stereotype Encoding in Toy Commercial Music
+description: PhD Research Luca Marinelli
 order: 4
 redirect: Remove if not redirecting
-display: false
+display: true
 ---
 
 Insert markdown content
