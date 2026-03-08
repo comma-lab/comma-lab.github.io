@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Neural Waveshaping Synthesis
+title: Data-driven Control over Audio Synthesizers with Deep Neural Networks
 description: PhD Research Ben Hayes
 img: false
 order: 1
-redirect: https://benhayes.net/projects/nws/
+redirect: Remove if not redirecting
 display: true
 ---
 
