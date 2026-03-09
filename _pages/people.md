@@ -25,7 +25,7 @@ nav_order: 1
 
 <h4 class="post-title"><b>Members</b></h4>
 
-* [<b>Dr Charalampos Saitis</b>](http://www.eecs.qmul.ac.uk/people/profiles/saitischaralampos.html)
+* [<b>Dr Charalampos Saitis</b>](https://www.seresearch.qmul.ac.uk/cmai/people/csaitis/)
 * [<b>Luca Marinelli</b>](/people/luca/)
 * [<b>Ben Hayes</b>](https://benhayes.net/) (co-supervision with György Fazekas, C4DM)
 * [<b>Bleiz Macsen Del Sette</b>](/people/bleiz/)
