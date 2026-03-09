@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Audiovisual Crossmodal Correspondences with Musical Sounds
-description: false
+title: Audiovisual Cross-sensory Correspondences with Musical Sounds
 img: false
 order: 10
 redirect: false
@@ -18,7 +17,7 @@ To provide further insight, we asked one tone-color synesthete musician (SD) to 
 
 The full paper is available [here](https://comma.eecs.qmul.ac.uk/assets/pdf/Colored_timbres_MTK_2024-2.pdf).
 
-<h4>Seeing Music: Leveraging citizen science and gamification to study cross-sensory associations</h5>
+<h4>Seeing Music: Leveraging citizen science and gamification to study cross-sensory associations</h4>
 
 Seeing Music was an interdisciplinary collaboration across music, linguistics, cognitive science, and art. With funding from QMUL's Centre for Public Engagement we produced [seeingmusic.app](https://www.seeingmusic.app/), the first digital interactive exhibition and game on the cross-sensory experience of music. 
 
