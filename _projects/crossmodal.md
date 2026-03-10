@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Audiovisual Cross-sensory Correspondences with Musical Sounds
+title: Audiovisual Cross-modal Correspondences with Musical Sounds
 img: false
 order: 10
 redirect: false
@@ -9,9 +9,14 @@ display: true
 
 <h4>Colored timbres: Do crossmodal correspondences between musical instrument sounds and visual colors rather depend on pitch instead of timbre?</h4>
 
-Together with colleagues form the Department of Musicology at the University of Vienna in Austria, we conducted an empirical study with 40 participants who were asked to match 60 musical instrument sounds with 38 colors. Despite notable interindividual inconsistencies, the results reflected some of the more common associations of colors and musical instruments found in previous empirical and theoretical accounts, e.g., between red/yellow and trumpet sounds. However, the influence of timbre was found to be less robust than the influence of pitch. The most reliable relation was the well known tendency to match lower pitches with darker colors (specifically dark reddish and brownish hues) and higher pitches with brighter colors (yellowish hues). There seems to be the opposite tendency for saturation, i.e., lower pitches were matched with more saturated colors.
+Together with colleagues form the Department of Musicology at the University of Vienna in Austria, we conducted an empirical study with 40 participants who were asked to match 60 musical instrument sounds with 38 colors. Despite notable interindividual inconsistencies, the results reflected some of the more common associations of colors and musical instruments found in previous empirical and theoretical accounts, e.g., between red/yellow and trumpet sounds (see top figure below; _p_ values < .01, the black line indicates the Bonferroni adjustment for multiple testing with _p_ < .00013). However, the influence of timbre was found to be less robust than the influence of pitch. The most reliable relation was the well known tendency to match lower pitches with darker colors (specifically dark reddish and brownish hues) and higher pitches with brighter colors (yellowish hues) (see bottom left figure below). There seems to be the opposite tendency for saturation, i.e., lower pitches were matched with more saturated colors.
 
-<img src="/assets/img/projects/Fig5_InstFarben.jpg" alt="color-instrument mappings" width="400"/>  <img src="/assets/img/projects/Fig7_RegisterColors.jpg" alt="color-octave mappings" width="305"/>
+A collection of timbre descriptors were extracted: octave, spectral centroid (SC), high frequency ratio (HFR), roughness, percussive/harmonic ratio (PHR), attack and release. The color selections were recorded in RGB space and then converted to CIELuv values using the standard illuminant D65. CIE spaces are based on human perception of color whereas the RGB space is based on image rendering for computer monitors. Pearson's _r_ correlations were then computed, and the results supported the pitch-brightness interaction (see bottom right figure below; _p_ < .05).
+
+<img src="/assets/img/projects/Fig5_InstFarben.jpg" alt="color-instrument mappings" width="430"/> 
+
+<img src="/assets/img/projects/Fig7_RegisterColors.jpg" alt="color-octave mappings" width="315"/>  <img src="/assets/img/projects/Fig9_CorrFeatures.jpg" alt="audio features" width="350"/>
+
 
 To provide further insight, we asked one tone-color synesthete musician (SD) to freely describe his synesthesia to our auditory stimuli. For SD, the cello is a dark reddish brown and the violin is tan (a pale brown tone) which roughly agrees with the colors most often chosen for the respective instruments in our listening experiment. In contrast to our findings, SD’s color sensations have a much weaker tendency to brighten when the instrument shifts to higher registers. Beyond that, SD’s color selections are much more nuanced and specific. Instead of plain yellow it’s ‘many different shades of yellowish orange, like a flame from a match or a candle’ or instead of plain silver it’s ‘silver, reflecting back wisps of light blue sky.’ 
 
