@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Audiovisual Cross-modal Correspondences with Musical Sounds
+title: Audiovisual Cross-modal Interactions with Musical Sounds
 img: false
 order: 10
 redirect: false
