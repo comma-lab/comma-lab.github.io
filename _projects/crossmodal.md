@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seeing Music: Auditory-Visual Correspondences
+title: "Seeing Music: Auditory-Visual Correspondences"
 img: false
 order: 10
 redirect: false
