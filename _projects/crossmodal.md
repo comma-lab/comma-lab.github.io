@@ -24,8 +24,9 @@ We created a gamified study environment
 
 <!-- <img src="/assets/img/projects/sm_interface1.png" alt="interface calibrate mode" width="460"/>  <img src="/assets/img/projects/sm_interface2.png" alt="interface evaluate mode" width="460"/> -->
 
-[![seeingmusic.app](https://img.youtube.com/vi/TB8ZqQTS9uQ/0.jpg)](https://www.youtube.com/watch?v=TB8ZqQTS9uQ "seeingmusic.app")  [![seeingmusic.app](https://img.youtube.com/vi/3brJSpgeyek/0.jpg)](https://www.youtube.com/watch?v=3brJSpgeyek "seeingmusic.app")
+[![seeingmusic.app](https://img.youtube.com/vi/TB8ZqQTS9uQ/0.jpg)](https://www.youtube.com/watch?v=TB8ZqQTS9uQ "seeingmusic.app")
 
+[![seeingmusic.app](https://img.youtube.com/vi/3brJSpgeyek/0.jpg)](https://www.youtube.com/watch?v=3brJSpgeyek "seeingmusic.app")
 
 
 Seeing Music debuted at the **Edinburgh International Science Festival** in July 2021 and engaged 197 visitors coming from 21 countries (134 from the UK). Two live virtual events with musicians, scientists, and members of the public were held on [Gather Town](https://www.gather.town/). Moving around a virtual version of the _Oram Ship_ (see live footage video), about 70 participants discussed their 'Seeing Music' experience, asked interesting questions about science and the senses, and attended live online performances by C4DM student musicians who improvised live on visuals drawn interactively and collaboratively by the participating audience. 
