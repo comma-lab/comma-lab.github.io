@@ -36,28 +36,26 @@ nav_order: 1
 * [<b>Ashley Noel-Hirst</b>](https://ashleynoelhirst.co.uk/) (co-supervision with Nick Bryan-Kinns, UAL)
 * [<b>Georgios Velissaridis</b>](https://github.com/GeorgeVeliss) (co-supervision with György Fazekas, C4DM)
 
-<!-- <h4 class="post-title"><b>Associate members</b></h4>
+<h4 class="post-title"><b>Affiliated members</b></h4>
 
-* [<b>Dr Asterios Zacharakis</b>](https://asteriszacharakis.wixsite.com/science)
-* <b>Rodrigo Diaz</b>
-* [<b>Nelly Garcia</b>](https://www.linkedin.com/in/nellyvags0906/?originalSubdomain=uk)
-* <b>Jinjie Shi</b>
-* [<b>Sebastian Löbbers</b>](https://sebastianlobbers.com/)
-* [<b>Cyrus Vahidi</b>](https://cyrusvahidi.com/) -->
+* <b>Rodrigo Diaz</b> (supervised by Mark Sandler)
+* <b>Nelly Garcia</b> (supervised by Joshua Reiss)
 
 <h4 class="post-title"><b>Alumni</b></h4>
 
 * [<b>Dr Vjosa Preniqi</b>](/people/vjosa/) (co-supervision with Kyriaki Kalimeri, ISI Foundation)
 
+<h4 class="post-title"><b>Former research assistants</b></h4>
+
+* Rajpreet Athwal (Google DeepMind Research Ready UG placement 2025)
+* Muneeb Musharaf (Google DeepMind Research Ready UG placement 2025)
+* [<b>Sebastian Löbbers</b>](https://sebastianlobbers.com/) (Seeing Music 2021)
+
 <h4 class="post-title"><b>Former visitors</b></h4>
 
 * [<b>Dr Montserrat Pàmies-Vilà</b>](https://iwk.mdw.ac.at/montserrat-pamies-vila/)
-* Rajpreet Athwal (Google DeepMind Research Ready UG placement 2025)
-* Muneeb Musharaf (Google DeepMind Research Ready UG placement 2025)
 
 <h4 class="post-title"><b>Former UG/MSc project students</b></h4>
-
-<!-- 2022-23 -->
 
 * <b>Amelia Stern</b> (QMUL MSc project 2025)
 * <b>Weixiong Chen</b> (QMUL MSc project 2025)
