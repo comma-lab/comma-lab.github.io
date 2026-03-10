@@ -7,14 +7,13 @@ redirect: false
 display: true
 ---
 
-<h4>Seeing Music: Leveraging citizen science and gamification to study cross-sensory associations</h4>
+<h4>Leveraging citizen science and gamification to study cross-sensory associations</h4>
 
 Seeing Music was an interdisciplinary collaboration across music, linguistics, cognitive science, and art. With funding from QMUL's Centre for Public Engagement we produced [seeingmusic.app](https://www.seeingmusic.app/), the first digital interactive exhibition and game on the cross-sensory experience of music. Seeing Music translates high-level scientific understanding of how our senses interact into knowledge for the public more widely. The tools and approach developed in the project offer a transparent model for future cross-disciplinary projects in public participation and citizen science.
 
 <img src="/assets/img/projects/sm_method.png" alt="methodology" align="left" width="450"/> Using a narrative-driven gamified approach, players are tasked with communicating human music to an extraterrestrial intelligence through visual shape, color and texture using two-dimensional selector panels. Music snippets (12–24 s long) are played continuously in a loop, taken from three custom instrumental compositions designed to vary systematically in terms of timbre, melody, and rhythm. 
 
 Outside the game, a series of interactive slideshows help visitors learn more about sensory experience, sensory diversity, and how our senses make us human. 
-
 <br clear="left"/>
 
 We created a gamified study environment
