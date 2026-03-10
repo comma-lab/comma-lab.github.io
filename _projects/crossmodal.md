@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Audiovisual Cross-modal Interactions with Musical Sounds
+title: Seeing Music: Auditory-Visual Correspondences
 img: false
 order: 10
 redirect: false
@@ -9,29 +9,33 @@ display: true
 
 <h4>Seeing Music: Leveraging citizen science and gamification to study cross-sensory associations</h4>
 
-Seeing Music was an interdisciplinary collaboration across music, linguistics, cognitive science, and art. With funding from QMUL's Centre for Public Engagement we produced [seeingmusic.app](https://www.seeingmusic.app/), the first digital interactive exhibition and game on the cross-sensory experience of music. 
+Seeing Music was an interdisciplinary collaboration across music, linguistics, cognitive science, and art. With funding from QMUL's Centre for Public Engagement we produced [seeingmusic.app](https://www.seeingmusic.app/), the first digital interactive exhibition and game on the cross-sensory experience of music. Seeing Music translates high-level scientific understanding of how our senses interact into knowledge for the public more widely. The tools and approach developed in the project offer a transparent model for future cross-disciplinary projects in public participation and citizen science.
 
-Humans are multisensory creatures, with a complex web of sensory and perceptual systems. We communicate using our voices, our bodies, and complex technologies. Our exhibition uses a series of custom interactive slideshows to help visitors learn more about sensory experience, sensory diversity, and how our senses make us human. The exhibition and games translate high-level scientific understanding of how our senses interact into knowledge for the public more widely. The tools and approach developed in the project offer a transparent model for future cross-disciplinary projects in public participation and citizen science.
+<img src="/assets/img/projects/sm_method.png" alt="methodology" align="left" width="450"/> Using a narrative-driven gamified approach, players are tasked with communicating human music to an extraterrestrial intelligence through visual shape, color and texture using two-dimensional selector panels. Music snippets (12–24 s long) are played continuously in a loop, taken from three custom instrumental compositions designed to vary systematically in terms of timbre, melody, and rhythm. 
 
-We created a gamified study environment with
-* "level-up" mechanics: participants first explored form-music associations and gradually "unlocked" colour-music and texture-music associations (see figure below);
-* modes;
-* a playful, compelling narrative: *Help the Oramian SAM (Sensory Autonomous Machine; named after [Daphne Oram](https://www.daphneoram.org/) understand our auditory world through visual signals!* and
+Outside the game, a series of interactive slideshows help visitors learn more about sensory experience, sensory diversity, and how our senses make us human. 
+
+<br clear="left"/>
+
+We created a gamified study environment
+* where players can "level-up" to unlock new visual features and musical snippets, and explore (left figure below) and evaluate (right figure) collaborative visualizations made by others, 
+* with a playful, compelling narrative: *Help the Oramian SAM (Sensory Autonomous Machine; named after [Daphne Oram](https://www.daphneoram.org/) understand our auditory world through visual signals!* and
 * a visually intriguing interface,
 * implemented to work cross-browser on desktop and mobile devices.
 
-<img src="/assets/img/projects/sm_interface1.png" alt="interface calibrate mode" width="430"/>  <img src="/assets/img/projects/sm_interface2.png" alt="interface evaluate mode" width="430"/>
+<img src="/assets/img/projects/sm_interface1.png" alt="interface calibrate mode" width="470"/>  <img src="/assets/img/projects/sm_interface2.png" alt="interface evaluate mode" width="470"/>
 
 
 Seeing Music debuted at the **Edinburgh International Science Festival** in July 2021 and engaged 197 visitors coming from 21 countries (134 from the UK). Two live virtual events with musicians, scientists, and members of the public were held on [Gather Town](https://www.gather.town/). Moving around a virtual version of the _Oram Ship_ (see live footage video), about 70 participants discussed their 'Seeing Music' experience, asked interesting questions about science and the senses, and attended live online performances by C4DM student musicians who improvised live on visuals drawn interactively and collaboratively by the participating audience. 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/_xFl-S4M8kU/0.jpg)](https://www.youtube.com/watch?v=_xFl-S4M8kU "Everything Is AWESOME")
+[![live footage video](https://img.youtube.com/vi/_xFl-S4M8kU/0.jpg)](https://www.youtube.com/watch?v=_xFl-S4M8kU "live footage video")
 
-As Seeing Music continues running online, a further 596 visitors from 35 countries (164 from the UK) have engaged. It was also presented at the 2022 QMUL Festival of Communities. To date 169 players of Seeing Music have produced a total of 42638 audiovisual mapping datapoints. New research based on this data was reported at the 2022 International Multisensory Research Forum.
+As Seeing Music continues running online, a further 596 visitors from 35 countries (164 from the UK) have engaged. It was also presented at the 2022 QMUL Festival of Communities. To date 169 players of Seeing Music have produced a total of 42638 audiovisual mapping datapoints. Some initial analysis on this data was reported at the 2022 International Multisensory Research Forum. Preliminary analysis suggests that music with less high-frequency energy was mapped to less complex and rounder shapes, bluer and less bright hues, and less dense textures. These trends confirm auditory-visual correspondences previously reported in more controlled laboratory studies (e.g., see below), while also offering new insight into how different auditory-visual associations interact with each other. 
 
-<img src="/assets/img/projects/sm_data1.png" alt="interface calibrate mode" width="430"/>  <img src="/assets/img/projects/sm_data2.png" alt="interface evaluate mode" width="430"/>
+<img src="/assets/img/projects/sm_data1.png" alt="data from a snippet" width="470"/>  <img src="/assets/img/projects/sm_data3.png" alt="data from a snippet" width="470"/>
 
 The core team of Seeing Music included [Sebastian Löbbers](https://sebastianlobbers.com/), [Dr Christine Cuskley](https://ccuskley.github.io/), and Dr Charalampos Saitis. Compositions for the Seeing Music game were created by Sebastian Löbbers, Selim Sheta (Major Miles), and Teo Dannemann. Live music was performed by Berker Banar, Teo Dannemann, Jeff Miller, Courtney Reed, Betty Accorsi and Andrea Martelloni.
+
 
 <h4>Colored timbres: Do crossmodal correspondences between musical instrument sounds and visual colors rather depend on pitch instead of timbre?</h4>
 
