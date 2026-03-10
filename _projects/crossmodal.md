@@ -17,12 +17,15 @@ Outside the game, a series of interactive slideshows help visitors learn more ab
 <br clear="left"/>
 
 We created a gamified study environment
-* where players can "level-up" to unlock new visual features and musical snippets, and explore (left figure below) and evaluate (right figure) collaborative visualizations made by others, 
-* with a playful, compelling narrative: *Help the Oramian SAM (Sensory Autonomous Machine; named after [Daphne Oram](https://www.daphneoram.org/) understand our auditory world through visual signals!* and
+* where players can "level-up" to unlock new visual features and musical snippets, and explore (left video below) and evaluate (right video) collaborative visualizations made by others, 
+* with a playful, compelling narrative: *Help the Oramian SAM (Sensory Autonomous Machine; named after [Daphne Oram](https://www.daphneoram.org/)) understand our auditory world through visual signals!* and
 * a visually intriguing interface,
 * implemented to work cross-browser on desktop and mobile devices.
 
-<img src="/assets/img/projects/sm_interface1.png" alt="interface calibrate mode" width="460"/>  <img src="/assets/img/projects/sm_interface2.png" alt="interface evaluate mode" width="460"/>
+<!-- <img src="/assets/img/projects/sm_interface1.png" alt="interface calibrate mode" width="460"/>  <img src="/assets/img/projects/sm_interface2.png" alt="interface evaluate mode" width="460"/> -->
+
+[![seeingmusic.app](https://img.youtube.com/vi/TB8ZqQTS9uQ/0.jpg)](https://www.youtube.com/watch?v=TB8ZqQTS9uQ "seeingmusic.app")  [![seeingmusic.app](https://img.youtube.com/vi/3brJSpgeyek/0.jpg)](https://www.youtube.com/watch?v=3brJSpgeyek "seeingmusic.app")
+
 
 
 Seeing Music debuted at the **Edinburgh International Science Festival** in July 2021 and engaged 197 visitors coming from 21 countries (134 from the UK). Two live virtual events with musicians, scientists, and members of the public were held on [Gather Town](https://www.gather.town/). Moving around a virtual version of the _Oram Ship_ (see live footage video), about 70 participants discussed their 'Seeing Music' experience, asked interesting questions about science and the senses, and attended live online performances by C4DM student musicians who improvised live on visuals drawn interactively and collaboratively by the participating audience. 
