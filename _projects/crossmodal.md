@@ -31,7 +31,9 @@ We created a gamified study environment
 
 Seeing Music debuted at the **Edinburgh International Science Festival** in July 2021 and engaged 197 visitors coming from 21 countries (134 from the UK). Two live virtual events with musicians, scientists, and members of the public were held on [Gather Town](https://www.gather.town/). Moving around a virtual version of the _Oram Ship_ (see live footage video), about 70 participants discussed their 'Seeing Music' experience, asked interesting questions about science and the senses, and attended live online performances by C4DM student musicians who improvised live on visuals drawn interactively and collaboratively by the participating audience. 
 
-[![live footage video](https://img.youtube.com/vi/_xFl-S4M8kU/0.jpg)](https://www.youtube.com/watch?v=_xFl-S4M8kU "live footage video")
+<a href="https://www.youtube.com/watch?v=_xFl-S4M8kU" title="seeingmusic.app">
+  <img src="https://img.youtube.com/vi/_xFl-S4M8kU/maxresdefault.jpg" alt="seeingmusic.app" width="460">
+</a>
 
 As Seeing Music continues running online, a further 596 visitors from 35 countries (164 from the UK) have engaged. It was also presented at the 2022 QMUL Festival of Communities. To date 169 players of Seeing Music have produced a total of 42638 audiovisual mapping datapoints. Some initial analysis on this data was reported at the 2022 International Multisensory Research Forum. Preliminary analysis suggests that music with less high-frequency energy was mapped to less complex and rounder shapes, bluer and less bright hues, and less dense textures. These trends confirm auditory-visual correspondences previously reported in more controlled laboratory studies (e.g., see below), while also offering new insight into how different auditory-visual associations interact with each other. 
 
