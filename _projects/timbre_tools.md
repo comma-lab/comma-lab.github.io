@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timbre and Sonic Cultures in NIME Practices
+title: Timbre and Sonic Cultures in Digital Lutherie Practices
 order: 5
 redirect: false
 display: true
