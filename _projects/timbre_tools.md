@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Timbre Tools
-description: Ethnographic and discourse perspectives on timbre and sonic cultures in NIME practices
+title: Timbre and Sonic Cultures in NIME Practices
 order: 5
 redirect: false
 display: true
