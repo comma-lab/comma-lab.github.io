@@ -22,7 +22,7 @@ We created a gamified study environment
 * a visually intriguing interface,
 * implemented to work cross-browser on desktop and mobile devices.
 
-<img src="/assets/img/projects/sm_interface1.png" alt="interface calibrate mode" width="470"/>  <img src="/assets/img/projects/sm_interface2.png" alt="interface evaluate mode" width="470"/>
+<img src="/assets/img/projects/sm_interface1.png" alt="interface calibrate mode" width="460"/>  <img src="/assets/img/projects/sm_interface2.png" alt="interface evaluate mode" width="460"/>
 
 
 Seeing Music debuted at the **Edinburgh International Science Festival** in July 2021 and engaged 197 visitors coming from 21 countries (134 from the UK). Two live virtual events with musicians, scientists, and members of the public were held on [Gather Town](https://www.gather.town/). Moving around a virtual version of the _Oram Ship_ (see live footage video), about 70 participants discussed their 'Seeing Music' experience, asked interesting questions about science and the senses, and attended live online performances by C4DM student musicians who improvised live on visuals drawn interactively and collaboratively by the participating audience. 
@@ -31,7 +31,7 @@ Seeing Music debuted at the **Edinburgh International Science Festival** in July
 
 As Seeing Music continues running online, a further 596 visitors from 35 countries (164 from the UK) have engaged. It was also presented at the 2022 QMUL Festival of Communities. To date 169 players of Seeing Music have produced a total of 42638 audiovisual mapping datapoints. Some initial analysis on this data was reported at the 2022 International Multisensory Research Forum. Preliminary analysis suggests that music with less high-frequency energy was mapped to less complex and rounder shapes, bluer and less bright hues, and less dense textures. These trends confirm auditory-visual correspondences previously reported in more controlled laboratory studies (e.g., see below), while also offering new insight into how different auditory-visual associations interact with each other. 
 
-<img src="/assets/img/projects/sm_data1.png" alt="data from a snippet" width="470"/>  <img src="/assets/img/projects/sm_data3.png" alt="data from a snippet" width="470"/>
+<img src="/assets/img/projects/sm_data1.png" alt="data from a snippet" width="460"/>  <img src="/assets/img/projects/sm_data3.png" alt="data from a snippet" width="460"/>
 
 The core team of Seeing Music included [Sebastian Löbbers](https://sebastianlobbers.com/), [Dr Christine Cuskley](https://ccuskley.github.io/), and Dr Charalampos Saitis. Compositions for the Seeing Music game were created by Sebastian Löbbers, Selim Sheta (Major Miles), and Teo Dannemann. Live music was performed by Berker Banar, Teo Dannemann, Jeff Miller, Courtney Reed, Betty Accorsi and Andrea Martelloni.
 
