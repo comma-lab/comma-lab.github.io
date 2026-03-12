@@ -100,11 +100,21 @@
   bottom: 0;
   left: 0;
   width: 100%;
-  padding: 15px;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
   display: flex;
   flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+  // text-align: center;
+  padding: 15px;
   justify-content: flex-end;
+  padding: 15px 15px 25% 15px;
+  transition: background 0.3s ease;
+}
+
+.grid-item-people > a > .card.hoverable:hover .card-overlay {
+  background: linear-gradient(transparent 30%, rgba(0, 0, 0, 0.7));
 }
 
 .grid-item-people > a > .card.hoverable .card-overlay .card-title {
