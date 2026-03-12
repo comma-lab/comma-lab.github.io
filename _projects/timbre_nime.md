@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Timbre and Sonic Cultures in Digital Lutherie Practices
-img: /assets/img/projects/detimbre.png
+img: /assets/img/projects/submissions_no_name.jpg
 order: 5
 redirect: false
 display: true
