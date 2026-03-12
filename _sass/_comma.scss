@@ -102,7 +102,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(transparent 30%, rgba(0, 0, 0, 0.7));
+  background: linear-gradient(transparent 30%, rgba(0, 0, 0, 0.8));
   display: flex;
   flex-direction: column;
   // justify-content: center;
@@ -110,13 +110,13 @@
   // text-align: center;
   padding: 15px;
   justify-content: flex-start;
-  padding: 66% 15px 15px 15px;
+  padding: 68% 15px 15px 15px;
   transition: background 0.3s ease;
 }
 
 .grid-item-people > a > .card.hoverable:hover .card-overlay {
   // background: linear-gradient(transparent 30%, rgba(0, 0, 0, 0.7));
-  background: rgba(105, 65, 225, 0.6);
+  background: rgba(105, 65, 225, 0.5);
 }
 
 .grid-item-people > a > .card.hoverable .card-overlay .card-title {
