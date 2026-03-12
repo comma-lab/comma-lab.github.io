@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data-driven Control over Synthesisers with Deep Neural Networks
-description: PhD Research Ben Hayes
+title: Data-driven Control over Audio Synthesisers with Deep NNs
+description: PhD research Ben Hayes
 img: false
 order: 1
 redirect: Remove if not redirecting
