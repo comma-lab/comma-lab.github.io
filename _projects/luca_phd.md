@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Gender Stereotype Encoding in Toy Commercial Music
-description: PhD Research Luca Marinelli
-order: 4
+description: PhD research Luca Marinelli
+order: 3
 redirect: Remove if not redirecting
 display: true
 ---
