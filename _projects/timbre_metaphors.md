@@ -2,7 +2,7 @@
 layout: page
 title: Metaphors We Listen With
 description: 
-order: 9
+order: 1
 redirect: false
 display: true
 ---
