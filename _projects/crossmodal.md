@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Seeing Music: Auditory-Visual Correspondences"
-img: false
+img: /assets/img/projects/sm_interface1.png
 order: 10
 redirect: false
 display: true
