@@ -3,7 +3,7 @@ layout: page
 title: Test
 hide_header: false
 permalink: /test/
-nav: true
+nav: false
 nav_order: 3
 # groups: [Members]
 ---
