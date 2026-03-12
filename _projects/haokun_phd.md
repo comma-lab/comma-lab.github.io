@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning Timbre Representations
-description: PhD Research Haokun Tian
+description: PhD research Haokun Tian
 order: 5
 display: true
 ---
