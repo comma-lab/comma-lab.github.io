@@ -26,13 +26,13 @@ A triangulation approach was used to examine the dimensionality of timbral brigh
 
 
 
-<h4>Timbral brightness perception investigated through multimodal interference (APP 2024)</h4>
+<h4>Timbral brightness perception investigated through multimodal interference</h4>
 
 Triangulating three different interaction paradigms, we investigated using speeded classification whether intramodal, crossmodal, and amodal interference occurs when timbral brightness, as modeled by the centroid of the spectral envelope, and pitch height/visual brightness/numerical value processing are semantically congruent and incongruent. In four online experiments varying in priming strategy, onset timing, and response deadline, 189 total participants were presented with a baseline stimulus (a pitch, gray square, or numeral) then asked to quickly identify a target stimulus that is higher/lower, brighter/darker, or greater/less than the baseline after being primed with a bright or dark synthetic harmonic tone (left image below). Additionally, in the pitch and visual tasks, a deceptive same-target condition was included. 
 
 Each experiment involved two baseline stimuli and thus a total of four targets (two per baseline). Audio stimuli were additive harmonic complexes up to 10 kHz. We used two baseline F0 values seven semitones or a perfect fifth apart, namely E♭4 and B♭4 (right image below). Each baseline was paired with a target two semitones up (F4 and C5, respectively) and a target two semitones down (D♭4 and A♭4, respectively). Visual stimuli included two baseline images each comprising a gray square (640 × 640 pixels) with 40% and 60% opacity, respectively. For numerical stimuli, we used two baseline digits: 4 and 7. Each baseline was paired with one larger (+ 2) and one smaller (− 2) digit. 
 
-<img src="/assets/img/projects/app_exp_design.png" alt="methodology" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/app_exp_sounds.png" alt="stimuli" width="400"/>
+<img src="/assets/img/projects/app_exp_design.png" alt="methodology" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/app_exp_sounds.png" alt="stimuli" width="400"/></br>
 
 
 **Bird’s-eye view:**
@@ -63,3 +63,5 @@ In the visual task, incongruent pairings of gray squares and tones elicited slow
 No interference was observed in the number comparison task in Exp. 1 & 2. 
 
 Taken together, the present findings broaden our understanding of the cognitive linguistics of timbre and the multimodal interactions that can accompany auditory experience. Evidence of timbre possibly modulating visual brightness but not numerical value lends support to the crossmodal connectivity hypothesis (direct connectivity between auditory and other sensorimotor channels), although without conclusively ruling out amodal magnitude processing. We are currently following up on these results with a functional magnetic resonance imaging (fMRI) study using modified pitch-brightness and auditory-visual brightness interaction paradigms to investigate the underpinning modulation mechanisms. 
+
+Read the full paper [here](https://link.springer.com/article/10.3758/s13414-024-02934-2).
