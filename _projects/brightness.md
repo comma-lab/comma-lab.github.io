@@ -7,7 +7,7 @@ redirect: false
 display: true
 ---
 
-Timbre is commonly described using vision and touch terms. Auditory brightness is among the most studied “metaphors we listen with” and arguably among the most important musical cues actively shaped by performers, composers, and audio engineers. Psychoacoustically, sounds described as ”bright” vs “dull” or ”dark” typically exhibit a high vs low frequency emphasis in the spectrum. However, relatively little is known about the perceptual and neurocognitive mechanisms that facilitate using a visual quality to talk about something that sounds. 
+Timbre is commonly described using vision terms. Auditory brightness is among the most studied “metaphors we listen with” and arguably among the most important musical cues actively shaped by performers, composers, and audio engineers. Psychoacoustically, sounds described as ”bright” vs “dull” or ”dark” typically exhibit a high vs low frequency emphasis in the spectrum. However, relatively little is known about the perceptual and neurocognitive mechanisms that facilitate using a visual quality to talk about something that sounds. 
 
 
 <h4>Relation to timbre dissimilarity and source-cause categories</h4>
