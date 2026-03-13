@@ -30,7 +30,6 @@ nav_order: 1
 * [<b>Ben Hayes</b>](https://benhayes.net/) (co-supervision with György Fazekas, C4DM)
 * [<b>Bleiz Macsen Del Sette</b>](/people/bleiz/)
 * [<b>Remi Falowo</b>](/people/remi/)
-* [<b>Jincheng Zhang</b>](/people/jincheng/) (co-supervision with György Fazekas, C4DM)
 * [<b>Jordie Shier</b>](https://jordieshier.com/) (co-supervision with Andrew McPherson, Imperial)
 * [<b>Haokun Tian</b>](https://tiianhk.github.io) (co-supervision with Stefan Lattner, Sony CSL Paris)
 * [<b>Ashley Noel-Hirst</b>](https://ashleynoelhirst.co.uk/) (co-supervision with Nick Bryan-Kinns, UAL)
@@ -43,7 +42,8 @@ nav_order: 1
 
 <h4 class="post-title"><b>Alumni</b></h4>
 
-* [<b>Dr Vjosa Preniqi</b>](/people/vjosa/) (co-supervision with Kyriaki Kalimeri, ISI Foundation)
+* <b>Jincheng Zhang</b> (co-supervision with György Fazekas, C4DM)
+* <b>Dr Vjosa Preniqi</b> (co-supervision with Kyriaki Kalimeri, ISI Foundation)
 
 <h4 class="post-title"><b>Former research assistants</b></h4>
 
