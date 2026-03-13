@@ -7,7 +7,7 @@ redirect: false
 display: true
 ---
 
-<img src="/assets/img/projects/bright_sounds.png" alt="spectrograms of four instruments" align="right" width="500"/> Timbre is commonly described using vision terms. Auditory brightness is among the most studied “[metaphors we listen with](/_projects/timbre_metaphors/)” and arguably among the most important musical cues actively shaped by performers, composers, and audio engineers. Psychoacoustically, sounds described as ”bright” vs “dull” or ”dark” typically exhibit a high vs low frequency emphasis in the spectrum. However, relatively little is known about the perceptual and neurocognitive mechanisms that facilitate using a visual quality to talk about something that sounds. The following studies set out to explore related questions. <br clear="left"/>
+<img src="/assets/img/projects/bright_sounds.png" alt="spectrograms of four instruments" align="right" width="500"/> Timbre is commonly described using vision terms. Auditory brightness is among the most studied “[metaphors we listen with](/_projects/timbre_metaphors/)” and arguably among the most important musical cues actively shaped by performers, composers, and audio engineers. Psychoacoustically, sounds described as ”bright” vs “dull” or ”dark” typically exhibit a high vs low frequency emphasis in the spectrum (see side figure with spectrograms of four acoustic instrument notes, f0 = 311 Hz, 500 ms, mezzo-forte, left channels, loudness matched). However, relatively little is known about the perceptual and neurocognitive mechanisms that facilitate using a visual quality to talk about something that sounds. The following studies set out to explore related questions. <br clear="left"/>
 
 <h4>Relation to timbre dissimilarity and source-cause categories</h4>
 
@@ -40,7 +40,7 @@ Triangulating three different interaction paradigms, we investigated using speed
 
 Each experiment involved two baseline stimuli and thus a total of four targets (two per baseline). Audio stimuli were additive harmonic complexes up to 10 kHz. We used two baseline F0 values seven semitones or a perfect fifth apart, namely E♭4 and B♭4 (right image below). Each baseline was paired with a target two semitones up (F4 and C5, respectively) and a target two semitones down (D♭4 and A♭4, respectively). Visual stimuli included two baseline images each comprising a gray square (640 × 640 pixels) with 40% and 60% opacity, respectively. For numerical stimuli, we used two baseline digits: 4 and 7. Each baseline was paired with one larger (+ 2) and one smaller (− 2) digit. 
 
-<img src="/assets/img/projects/app_exp_design.png" alt="methodology" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/app_exp_sounds.png" alt="stimuli" width="400"/><br><br>
+<img style="border:2px solid #555" src="/assets/img/projects/app_exp_design.png" alt="methodology" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/app_exp_sounds.png" alt="stimuli" width="400"/><br><br>
 
 
 **Bird’s-eye view:**
