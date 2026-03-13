@@ -28,6 +28,7 @@ nav_order: 1
 * [<b>Dr Charalampos Saitis</b>](https://www.seresearch.qmul.ac.uk/cmai/people/csaitis/)
 * [<b>Luca Marinelli</b>](/people/luca/)
 * [<b>Ben Hayes</b>](https://benhayes.net/) (co-supervision with György Fazekas, C4DM)
+* <b>Jincheng Zhang</b> (co-supervision with György Fazekas, C4DM)
 * [<b>Bleiz Macsen Del Sette</b>](/people/bleiz/)
 * [<b>Remi Falowo</b>](/people/remi/)
 * [<b>Jordie Shier</b>](https://jordieshier.com/) (co-supervision with Andrew McPherson, Imperial)
@@ -42,7 +43,6 @@ nav_order: 1
 
 <h4 class="post-title"><b>Alumni</b></h4>
 
-* <b>Jincheng Zhang</b> (co-supervision with György Fazekas, C4DM)
 * <b>Dr Vjosa Preniqi</b> (co-supervision with Kyriaki Kalimeri, ISI Foundation)
 
 <h4 class="post-title"><b>Former research assistants</b></h4>
