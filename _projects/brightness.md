@@ -7,8 +7,7 @@ redirect: false
 display: true
 ---
 
-Timbre is commonly described using vision terms. Auditory brightness is among the most studied “metaphors we listen with” and arguably among the most important musical cues actively shaped by performers, composers, and audio engineers. Psychoacoustically, sounds described as ”bright” vs “dull” or ”dark” typically exhibit a high vs low frequency emphasis in the spectrum. However, relatively little is known about the perceptual and neurocognitive mechanisms that facilitate using a visual quality to talk about something that sounds. 
-
+<img src="/assets/img/projects/bright_sounds.png" alt="spectrograms of four instruments" align="right" width="500"/> Timbre is commonly described using vision terms. Auditory brightness is among the most studied “[metaphors we listen with](/_projects/timbre_metaphors/)” and arguably among the most important musical cues actively shaped by performers, composers, and audio engineers. Psychoacoustically, sounds described as ”bright” vs “dull” or ”dark” typically exhibit a high vs low frequency emphasis in the spectrum. However, relatively little is known about the perceptual and neurocognitive mechanisms that facilitate using a visual quality to talk about something that sounds. The following studies set out to explore related questions. <br clear="left"/>
 
 <h4>Relation to timbre dissimilarity and source-cause categories</h4>
 
@@ -19,13 +18,13 @@ Timbre dissimilarity of orchestral sounds is well-known to be multidimensional, 
 
 A triangulation approach was used to examine the dimensionality of timbral brightness, its robustness across different psychoacoustical contexts, and relation to perception of the sounds' source-cause. Listeners compared 14 acoustic instrument sounds in three distinct tasks that collected general dissimilarity, brightness dissimilarity, and direct multi-stimulus brightness ratings. For the latter, we adapted the MUSHRA procedure (ITU-R BS.1534-3), whereby listeners are allowed to switch between multiple stimuli presented in parallel as often as they want, effectively performing a direct rating of each stimulus plus a ranking and inherently also pairwise comparisons. 
 
-<img src="/assets/img/projects/jasa2020_exp_design.png" alt="methodology" width="410"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/jasa2020_mushra.png" alt="mushra direct brightness ratings" width="410"/>
+<img src="/assets/img/projects/jasa2020_exp_design.png" alt="methodology" width="420"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/jasa2020_mushra.png" alt="mushra direct brightness ratings" width="420"/>
 
 **Multidimensional scaling**
 
 Dissimilarity ratings were first analysed with nonmetric MDS. The 2D MDS solution for brightness dissimilarity (BRdissim) was compared with a general timbre dissimilarity space (GEdissim). The first dimension of BRdissim reflected spectral envelope organisation, mirroring the second dimension of GEdissim, while its second dimension appeared to reflect temporal envelope structure, with an unexpected placement of the bowed cello. Log attack time (LAT) and spectral centroid (SC) were used as confirmatory descriptors to examine how well they predicted both general and brightness dissimilarity dimensions: SC correlations were as expected; somewhat suprisingly, the second dimension of BRdissim correlated well with LAT. This finding could suggest a leakage of general timbre dissimilarity into timbral brightness dissimilarity, which, like source-cause categories (see below), may further relate to the susceptibility of pairwise dissimilarity ratings to conflate other processes.
 
-<img src="/assets/img/projects/jasa2020_spaces.png" alt="multidimensional scaling" width="410"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/jasa2020_plsr.png" alt="partial least squares regression" width="410"/><br><br>
+<img src="/assets/img/projects/jasa2020_spaces.png" alt="multidimensional scaling" width="420"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/jasa2020_plsr.png" alt="partial least squares regression" width="420"/><br><br>
 
 **Partial least-squares regression**
 
