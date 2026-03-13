@@ -18,7 +18,7 @@ Timbre dissimilarity of orchestral sounds is well-known to be multidimensional, 
 
 A triangulation approach was used to examine the dimensionality of timbral brightness, its robustness across different psychoacoustical contexts, and relation to perception of the sounds' source-cause. Listeners compared 14 acoustic instrument sounds in three distinct tasks that collected general dissimilarity, brightness dissimilarity, and direct multi-stimulus brightness ratings. For the latter, we adapted the MUSHRA procedure (ITU-R BS.1534-3), whereby listeners are allowed to switch between multiple stimuli presented in parallel as often as they want, effectively performing a direct rating of each stimulus plus a ranking and inherently also pairwise comparisons. 
 
-<img src="/assets/img/projects/jasa2020_exp_design.png" alt="methodology" width="420"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/jasa2020_mushra.png" alt="mushra direct brightness ratings" width="420"/>
+<img src="/assets/img/projects/jasa2020_exp_design.png" alt="methodology" width="420"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/projects/jasa2020_mushra.png" alt="mushra direct brightness ratings" width="440"/>
 
 **Multidimensional scaling**
 
