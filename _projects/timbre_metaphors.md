@@ -30,11 +30,10 @@ Most of what we know about what is called "timbre semantics" comes from studies 
   </div>
   <div style="flex-shrink: 0;">
     <video width="420" controls>
-      <source src="{{ '/assets/vid/disembodied_interface.mp4' | relative_url }}" type="video/quicktime">
+      <source src="/assets/vid/disembodied_interface.mp4" type="video/mp4">
     </video>
   </div>
 </div>
-
 
 We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
 
