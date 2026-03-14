@@ -22,7 +22,18 @@ But how far does this model stretch? And does the way we *talk* about timbre act
 
 Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of electronic synthesis. In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. 
 
-![](/assets/vid/disembodied_interface.mov)
+
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
+  <div style="flex: 1;">
+    <p>Your text goes here. Write it as plain HTML paragraphs rather
+    than Markdown inside the div, to avoid kramdown parsing issues.</p>
+  </div>
+  <div style="flex-shrink: 0;">
+    <video width="420" controls>
+      <source src="{{ '/assets/vid/disembodied_interface2.mov' | relative_url }}" type="video/quicktime">
+    </video>
+  </div>
+</div>
 
 
 We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
@@ -33,7 +44,7 @@ We collected 1,407,604 publicly available posts from a popular synth forum, and 
 
 **Semantic prompts left measurable imprints on synthesiser controls.** Participants tuning for "brightness" and "roughness" made similar adjustments to the modulator parameters, the FM settings that govern the distribution of spectral energy, consistent with the acoustic correlates observed for these descriptors. "Thickness", by contrast, was pursued through the amplitude envelopes, shaping the sustain and temporal decay of the sound. Word affect also left its mark: adjectives with stronger emotional valence (positive or negative) tended to produce sounds with more energy in the higher frequencies and greater inharmonicity, echoing [earlier findings](https://www.researchgate.net/profile/Zachary-Wallmark-2/publication/334157880_Creating_novel_tones_from_adjectives_An_exploratory_study_using_FM_synthesis/links/5d1b9143299bf1547c92a408/Creating-Novel-Tones-From-Adjectives-An-Exploratory-Study-Using-FM-Synthesis.pdf).
 
-<img src="/assets/img/projects/disembodied_FMparams.png" alt="methodology" width="960"/>
+<img src="/assets/img/projects/disembodied_FMparams.png" alt="methodology" width="900"/>
 
 <h4>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary</h4>
 
