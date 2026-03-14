@@ -30,7 +30,7 @@ Most of what we know about what is called "timbre semantics" comes from studies 
   </div>
   <div style="flex-shrink: 0;">
     <video width="420" controls>
-      <source src="{{ '/assets/vid/disembodied_interface2.mov' | relative_url }}" type="video/quicktime">
+      <source src="{{ '/assets/vid/disembodied_interface.mp4' | relative_url }}" type="video/quicktime">
     </video>
   </div>
 </div>
