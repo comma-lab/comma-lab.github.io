@@ -22,23 +22,7 @@ But how far does this model stretch? And does the way we *talk* about timbre act
 
 Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of electronic synthesis. In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. 
 
-<div style="display: flex; gap: 2rem; align-items: flex-start;">
-
-<div style="flex: 1;">
-
-Your text goes here. It will sit to the left of the video and wrap
-naturally as needed. You can write as much as you like and it will
-stay aligned with the video on the right.
-
-</div>
-
-<div style="flex-shrink: 0;">
-  <video width="320" controls>
-    <source src="{{ '/assets/vid/disembodied_interface.mov' | relative_url }}" type="video/quicktime">
-  </video>
-</div>
-
-</div>
+![](/assets/vid/disembodied_interface.mov)
 
 
 We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
