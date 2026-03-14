@@ -12,7 +12,9 @@ display: true
 
 > *A sound’s timbre describes its harshness or softness, its dullness or brightness*.<br>— Jean-Jacques Rousseau (1765)
 
-Timbre is notoriously difficult to define, and even harder to talk about. Yet people do talk about it, especially musicians, composers, producers, instrument makers, and with surprising consistency. Previous studies have converged on a small number of recurring semantic dimensions, which can be interpreted broadly in terms of brightness/sharpness (or luminance), roughness/harshness (or texture), and fullness/richness (or mass). These semantic descriptions embody conceptual representations, allowing listeners to talk about subtle acoustic variations through other, more commonly shared corporeal experiences---*metaphors we listen with*. The [luminance-texture-mass (LTM) model](https://joshreiss.github.io/documents/2014/Zacharakis%20Pastiadis%20Reiss%20-%20Music%20Perception.pdf) describes how listeners across different languages tend to reach for the same kinds of metaphor. 
+Timbre is notoriously difficult to define, and even harder to talk about. Yet people do talk about it, especially musicians, composers, producers, instrument makers, and with surprising consistency. Previous studies have converged on a small number of recurring semantic dimensions, which can be interpreted broadly in terms of brightness/sharpness (or luminance), roughness/harshness (or texture), and fullness/richness (or mass). Read a comprehensive review of the field [here](/assets/pdf/Saitis_chap5.pdf).
+
+These semantic descriptions of timbre embody conceptual representations, allowing listeners to talk about subtle acoustic variations through other, more commonly shared corporeal experiences---*metaphors we listen with*. The [luminance-texture-mass (LTM) model](https://joshreiss.github.io/documents/2014/Zacharakis%20Pastiadis%20Reiss%20-%20Music%20Perception.pdf) describes how listeners across different languages tend to reach for the same kinds of metaphor. 
 
 But how far does this model stretch? And does the way we *talk* about timbre actually track how we *make* sounds?
 
@@ -20,11 +22,26 @@ But how far does this model stretch? And does the way we *talk* about timbre act
 
 Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of electronic synthesis. In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. 
 
- 
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
 
-<video width="420" align="right" controls>
-  <source src="/assets/vid/disembodied_interface.mov" type="video/mp4">
-</video> We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
+<div style="flex: 1;">
+
+Your text goes here. It will sit to the left of the video and wrap
+naturally as needed. You can write as much as you like and it will
+stay aligned with the video on the right.
+
+</div>
+
+<div style="flex-shrink: 0;">
+  <video width="320" controls>
+    <source src="{{ '/assets/vid/disembodied_interface.mov' | relative_url }}" type="video/quicktime">
+  </video>
+</div>
+
+</div>
+
+
+We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
 
 
 **Exploratory factor analysis of the semantic ratings recovered five dimensions.** The first two broadly echoed the LTM model: luminance and texture merged into a single "sharpness" factor, while mass appeared as a second independent factor. Three additional dimensions emerged, namely clarity, percussiveness, and rawness, which appear to reflect specific qualities of FM timbres that listeners discriminated. 
