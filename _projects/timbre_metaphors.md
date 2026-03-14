@@ -27,7 +27,7 @@ Most of what we know about what is called "timbre semantics" comes from studies 
     <p>In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.</p>
   </div>
   <div style="flex-shrink: 0;">
-    <video width="550" controls>
+    <video width="600" controls>
       <source src="/assets/vid/disembodied_interface.mp4" type="video/mp4">
     </video>
   </div>
