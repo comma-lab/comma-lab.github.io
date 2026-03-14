@@ -20,11 +20,11 @@ But how far does this model stretch? And does the way we *talk* about timbre act
 
 <!-- <h4>Disembodied Timbres: Semantically prompted FM synthesis</h4> -->
 
-Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis. 
+**Semantically prompted FM synthesis.** Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis. 
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <div style="flex: 1;">
-    <p>In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.</p>
+    <p> In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.</p>
   </div>
   <div style="flex-shrink: 0;">
     <video width="600" controls>
@@ -32,6 +32,7 @@ Most of what we know about what is called "timbre semantics" comes from studies 
     </video>
   </div>
 </div>
+<br/>
 
 **Exploratory factor analysis of the semantic ratings recovered five dimensions.** The first two broadly echoed the LTM model: luminance and texture merged into a single "sharpness" factor, while mass appeared as a second independent factor. Three additional dimensions emerged, namely clarity, percussiveness, and rawness, which appear to reflect specific qualities of FM timbres that listeners discriminated. 
 
@@ -41,4 +42,14 @@ Most of what we know about what is called "timbre semantics" comes from studies 
 
 <!-- <h4>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary</h4> -->
 
-**Scaling up through play.** [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) also developed [timbre.fun](https://timbre.fun/), a gamified web platform where anyone can explore a two-dimensional synthesiser space and tag the sounds they create with semantic prompts mined from synthesis forums. Debuted at the 2021 Edinburgh Science Festival, the platform attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with prior lab findings: prompts like sharp, bright, and harsh clustered together in synthesis space and in acoustic feature space, consistent with the LTM luminance-texture grouping. Crucially, the emotional arousal level of words — how energising or calming they are — proved to be a reliable predictor of the acoustic character of the sounds that people created. Prompt arousal, more than valence or dominance, organised the timbral choices of lay participants and experts alike.
+**Scaling up through play.** [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) also developed [timbre.fun](https://timbre.fun/), a gamified web platform where anyone can explore a two-dimensional synthesiser space and tag the sounds they create with semantic prompts mined from synthesis forums. Debuted at the 2021 Edinburgh Science Festival, the platform attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with prior lab findings: prompts like sharp, bright, and harsh clustered together in synthesis space and in acoustic feature space---PCA and k-means clustering on audio features revealed two distinct spaces, consistent with the LTM luminance-texture grouping. 
+
+<img src="/assets/img/projects/timbre_fun_descriptors.png" alt="methodology" width="900"/>
+
+<img src="/assets/img/projects/timbre_fun_clusters.png" alt="methodology" width="900"/>
+
+* cluster 1: more energy in low frequencies, and clear peaks in the spectrum 
+* cluster 2: a flatter spectrum with more high frequency energy
+
+Very interestingly, **the emotional arousal connotation of timbral metaphors proved to be a reliable predictor of the acoustic character of the sounds that people created.** Using published [word affect norms](https://link.springer.com/content/pdf/10.3758/s13428-012-0314-x.pdf), valence, arousal, and dominance scores were obtained for each prompt. Each affect dimension was treated as a binary classification problem, fitting an SVM (RBF kernel) on either acoustic principal components or synthesiser parameters as input. A binomial test using the no-information rate as the null hypothesis suggested the result for arousal was statistically significant (accuracy: synth parameters 73.1%, acoustic PCs 71%; *p* < 0.001).
+
