@@ -65,8 +65,8 @@ Very interestingly, **the emotional arousal connotation of timbral metaphors pro
 |------------------------------|------------------------------|------------------------------|
 | deep, thick, heavy | brassy, metallic | woody |
 | smooth, singing, sweet | raspy, grainy, gravelly | muted, veiled |
-| project, commanding, powerful | ringing, long decay | sustained, even |
-| nasal, buzzy, pinched | sparkling, brilliant, bright | open |
+| project, commanding, powerful &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ringing, long decay | sustained, even |
+| nasal, buzzy, pinched | sparkling, brilliant, bright &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| open |
 | shrill, harsh, noisy | airy, breathy | focused, compact |
 | percussive (sharp beginning) | resonant, vibrant | watery, fluid |
 | pure, clear, clean | hollow | cell |
