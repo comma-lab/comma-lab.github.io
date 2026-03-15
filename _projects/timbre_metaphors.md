@@ -65,8 +65,9 @@ Very interestingly, **the emotional arousal connotation of timbral metaphors pro
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 | deep, thick, heavy | brassy, metallic | woody | pure, clear, clean | hollow |
 | smooth, singing, sweet | raspy, grainy, gravelly | muted, veiled | resonant, vibrant | watery, fluid |
-| project, commanding, powerful &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ringing, long decay | sustained, even | percussive (sharp beginning) | focused, compact |
+| project, commanding, powerful &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ringing, long decay | sustained, even &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | percussive (sharp beginning) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | focused, compact |
 | nasal, buzzy, pinched | sparkling, brilliant, bright &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| open | shrill, harsh, noisy | airy, breathy | 
+<br/>
 
 **Register and instrument influence most scales.** For certain sets of terms, the results showed similar patterns across registers for all the instruments, for instance, deep/thick/heavy was consistently rated highest in the low register, whereas sparkling/brilliant/bright received the highest ratings in the high register. For other terms, relationships between register and semantic associations depended on the instrument, for example, the trombone was rated most smooth/singing/sweet in its higher register, whereas the trumpet received increased ratings for smooth/singing/sweet in its middle register. There was little variance among registers for the descriptors brassy/metallic and sustained/even across all the instruments. Unlike the other instruments, the vibraphone displayed very little semantic variation across registers. 
 
@@ -80,3 +81,12 @@ Thus, we focused in our post hoc analysis on critically comparing pitch height a
 
 **Summary.** These findings confirmed some differences in semantic category ratings within instrument ranges and between different instruments. Register only accounted for 5% or more of the variance for only 8 of the 20 categories, a relatively small impact. Interestingly, bass clarinet and trombone showed increased average ratings for smooth/singing/sweet in their higher register, whereas flute, oboe, trumpet, violin, and cello displayed highest average ratings for smooth/singing/sweet in their middle register. Seeing as brassy/metallic ratings had little variation across the stimuli, it is possible that since the majority of participants were nonmusicians, their variable knowledge of the terms brassy/metallic may have influenced those ratings. This opens up an avenue for future research on how musicians and nonmusicians potentially apply semantic terms to timbre differently, and how music training impacts timbre description. Future research could also expand this study to other instruments as well as variations in dynamics, articulations, or playing/extended techniques, and thus a broader range of musical timbres. 
 
+---
+
+<h4>Publications</h4>
+
+Hayes, B., Saitis, C., & Fazekas, G. (2022a). Disembodied timbres: A study on semantically prompted FM synthesis. *Journal of the Audio Engineering Society*, (5), 373-391.
+
+Hayes, B., Saitis, C., & Fazekas, G. (2022b). timbre. fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary. *Proceedings of the 24 International Congress on Acoustics (ICA)*, 1–10.
+
+Reymore, L., Noble, J., Saitis, C., Traube, C., & Wallmark, Z. (2023). Timbre semantic associations vary both between and within instruments: An empirical study incorporating register and pitch height. *Music Perception*, 40(3), 253-274.
