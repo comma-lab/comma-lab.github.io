@@ -22,16 +22,11 @@ But how far does this model stretch? And does the way we *talk* about timbre act
 
 **Semantically prompted FM synthesis.** Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis. 
 
-<div style="display: flex; gap: 2rem; align-items: flex-start;">
-  <div style="flex: 1;">
-    <p> In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.</p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <video width="600" controls>
-      <source src="/assets/vid/disembodied_interface.mp4" type="video/mp4">
-    </video>
-  </div>
-</div>
+In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
+
+<video width="700" controls>
+    <source src="/assets/vid/disembodied_interface.mp4" type="video/mp4">
+</video>
 <br/>
 
 **Exploratory factor analysis of the semantic ratings recovered five dimensions.** The first two broadly echoed the LTM model: luminance and texture merged into a single "sharpness" factor, while mass appeared as a second independent factor. Three additional dimensions emerged, namely clarity, percussiveness, and rawness, which appear to reflect specific qualities of FM timbres that listeners discriminated. 
