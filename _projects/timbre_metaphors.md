@@ -18,9 +18,9 @@ These semantic descriptions of timbre embody conceptual representations, allowin
 
 But how far does this model stretch? And does the way we *talk* about timbre actually track how we *make* sounds?
 
-<!-- <h4>Disembodied Timbres: Semantically prompted FM synthesis</h4> -->
+<h4>Disembodied Timbres: a study on semantically prompted FM synthesis</h4>
 
-**Semantically prompted FM synthesis.** Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis. 
+Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis. 
 
 In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
 
@@ -38,18 +38,30 @@ In a novel experimental paradigm, experienced sound designers programmed an FM s
 * Spearman’s *ρ* correlations
 * *: *p* < 0.05; **: *p* < 0.01; ***: *p* < 0.001
 * F = factor, A = attack; D = decay; S = sustain; R = release; T = tuning; V = volume; 1 = carrier; 2 & 3 = modulators
-
-<!-- <h4>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary</h4> -->
 <br/>
 
-**Scaling up through play.** [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) also developed [timbre.fun](https://timbre.fun/), a gamified web platform where anyone can explore a two-dimensional synthesiser space and tag the sounds they create with semantic prompts mined from synthesis forums. Debuted at the 2021 Edinburgh Science Festival, the platform attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with prior lab findings: prompts like sharp, bright, and harsh clustered together in synthesis space and in acoustic feature space---PCA and k-means clustering on audio features revealed two distinct spaces, consistent with the LTM luminance-texture grouping. 
+<h4>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary</h4>
 
-<img src="/assets/img/projects/timbre_fun_descriptors.png" alt="methodology" width="900"/>
+Based on the prompted synthesis tasks, [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) developed [timbre.fun](https://timbre.fun/), a gamified web platform where anyone can explore a two-dimensional synthesiser space and tag the sounds they create with semantic prompts mined from synthesis forums. Debuted at the 2021 Edinburgh Science Festival, the platform attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with prior lab findings: prompts like sharp, bright, and harsh clustered together in synthesis space and in acoustic feature space---PCA and k-means clustering on audio features revealed two distinct spaces, consistent with the LTM luminance-texture grouping. 
 
-<img src="/assets/img/projects/timbre_fun_clusters.png" alt="methodology" width="900"/>
+<img src="/assets/img/projects/timbre_fun_descriptors.png" alt="descriptors in synthesis space" width="750"/>
+
+<img src="/assets/img/projects/timbre_fun_clusters.png" alt="descriptors in audio feature space" width="900"/>
 
 * cluster 1: more energy in low frequencies, and clear peaks in the spectrum 
 * cluster 2: a flatter spectrum with more high frequency energy
 
 Very interestingly, **the emotional arousal connotation of timbral metaphors proved to be a reliable predictor of the acoustic character of the sounds that people created.** Using published [word affect norms](https://link.springer.com/content/pdf/10.3758/s13428-012-0314-x.pdf), valence, arousal, and dominance scores were obtained for each prompt. Each affect dimension was treated as a binary classification problem, fitting an SVM (RBF kernel) on either acoustic principal components or synthesiser parameters as input. A binomial test using the no-information rate as the null hypothesis suggested the result for arousal was statistically significant (accuracy: synth parameters 73.1%, acoustic PCs 71%; *p* < 0.001).
+
+<h4>Timbre semantic associations vary both between and within instruments</h4>
+
+<h5>An empirical study incorporating register and pitch height</h5>
+
+[Reymore, Noble, Saitis, Traube, and Walmark (2023)](https://www.mcgill.ca/mpcl/files/mpcl/reymore_2023_muspercept.pdf) looked at the variations in timbre within an instrument and between different instruments, and the corresponding semantic associations. These variations depend on dynamics, pitch, articulation, duration, vibrato, technique, and other parameters. Register-dependent descriptions of instruments’ timbres characterize instruments based on register, or a part of the instrument’s range, such as the rumbling, thick, and muddy low notes of the piano versus the tinkling, thin, and clear highest notes. This relationship is further complicated by the varying tessituras, or range of playable notes, for different instruments (for example, the flute’s lowest notes overlap with the bassoon’s highest notes, as shown below).
+
+To address these variations, we designed an experiment to examine the effect of register on instrumental timbre semantics, with additional analysis relating specifically to pitch height. 
+
+<img src="/assets/img/projects/mus_percept_design.png" alt="methodology" width="750"/>
+
+Four of the instruments (violin, bass clarinet, trombone, and vibraphone) were selected based on the [ACTOR CORE (Composer-Performer Orchestration Research Ensemble).](https://timbreandorchestration.org/research-ensembles) Vibraphone sounds were bowed, rather than struck, to maintain consistency of excitation type. We then added flute, oboe, trumpet, and cello in order to balance the range of the stimuli and to maximize the variability of orchestral timbres tested. We note that the vibraphone was included precisely because it is an outlier---the only percussion instrument, idiophone, non-default technique, and non-standard orchestral member, offering useful variability for studying how instrument type interacts with register-semantic relationships.
 
