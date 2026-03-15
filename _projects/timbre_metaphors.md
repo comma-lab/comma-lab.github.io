@@ -69,6 +69,7 @@ Very interestingly, **the emotional arousal connotation of timbral metaphors pro
 | smooth, singing, sweet | raspy, grainy, gravelly | muted, veiled | resonant, vibrant | watery, fluid |
 | project, commanding, powerful &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ringing, long decay | sustained, even &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | percussive (sharp beginning) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | focused, compact |
 | nasal, buzzy, pinched | sparkling, brilliant, bright &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| open | shrill, harsh, noisy | airy, breathy | 
+
 <br/>
 
 **Register and instrument influence most scales.** For certain sets of terms, the results showed similar patterns across registers for all the instruments, for instance, deep/thick/heavy was consistently rated highest in the low register, whereas sparkling/brilliant/bright received the highest ratings in the high register. For other terms, relationships between register and semantic associations depended on the instrument, for example, the trombone was rated most smooth/singing/sweet in its higher register, whereas the trumpet received increased ratings for smooth/singing/sweet in its middle register. There was little variance among registers for the descriptors brassy/metallic and sustained/even across all the instruments. Unlike the other instruments, the vibraphone displayed very little semantic variation across registers. 
@@ -85,7 +86,7 @@ Thus, we focused in our post hoc analysis on critically comparing pitch height a
 
 ---
 
-<h4>Publications</h4>
+<h4>Related publications</h4>
 
 Hayes, B., Saitis, C., & Fazekas, G. (2022a). Disembodied timbres: A study on semantically prompted FM synthesis. *Journal of the Audio Engineering Society*, (5), 373-391.
 
