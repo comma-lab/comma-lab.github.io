@@ -20,9 +20,11 @@ But how far does this model stretch? And does the way we *talk* about timbre act
 
 <h4>Disembodied Timbres: a study on semantically prompted FM synthesis</h4>
 
-Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis. 
+Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis.
 
-In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
+Synthesiser controls typically map to low-level signal processing parameters rather than perceptual concepts, making intuitive sound design difficult, a problem compounded by the growing complexity of commercial instruments. [David Wessel](https://www.jstor.org/stable/3680283) first proposed using a timbre space as a control interface, which worked well for additive synthesis given its linearity. FM synthesis is harder: its parameters interact nonlinearly, so straightforward mappings from perceptual or semantic timbre dimensions to synthesis controls are more difficult to derive, and the relationship between semantic dimensions and underlying perceptual representations remains unclear.
+
+In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 unipolar semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
 
 <video width="700" controls>
     <source src="/assets/vid/disembodied_interface.mp4" type="video/mp4">
@@ -40,9 +42,18 @@ In a novel experimental paradigm, experienced sound designers programmed an FM s
 * F = factor, A = attack; D = decay; S = sustain; R = release; T = tuning; V = volume; 1 = carrier; 2 & 3 = modulators
 <br/>
 
+**Perceptual and semantic scaling.** Using FM sounds created in the prompted synthesis study, and the same 27 unipolar semantic scales, [Hayes, Saitis, and Fazekas (2021)](https://comma.eecs.qmul.ac.uk/assets/pdf/hayes_perceptual_2021.pdf) further collected standard pairwise dissimilarity and semantic ratings.
+
+Multidimensional scaling of the dissimilarity data revealed three-dimensional perceptual spaces, but with a notable finding: musicians and synthesiser-experienced listeners organised the sounds differently from non-experts, suggesting that prior experience shapes the perceptual structure of electronic timbres in ways not typically seen with acoustic instruments.
+
+Semantic ratings, by contrast, were remarkably consistent across expertise groups. Exploratory factor analysis recovered two factors: one showing strong loadings for mass and darkness, and the other with texture. These are congruent with the LTM model, but their order suggests that mass better
+characterises stimulus variance here, largely in line with the main study reported above. Indeed, the mass factor showed strong correlations with all MDS spaces’ first dimensions, and these correlated strongly with the second principal component of stimuli modulation power spectra. 
+
+The overall conclusion is that electronic timbres may draw on perceptual attributes distinct from those governing acoustic instrument sounds, that expertise modulates perception but not semantic description, and that this gap points to attributes in the sounds that the adjective set may not fully capture.
+
 <h4>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary</h4>
 
-Based on the prompted synthesis tasks, [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) developed [timbre.fun](https://timbre.fun/), a gamified web platform where anyone can explore a two-dimensional synthesiser space and tag the sounds they create with semantic prompts mined from synthesis forums. Debuted at the 2021 Edinburgh Science Festival, the platform attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with prior lab findings: prompts like sharp, bright, and harsh clustered together in synthesis space and in acoustic feature space---PCA and k-means clustering on audio features revealed two distinct spaces, consistent with the LTM luminance-texture grouping. 
+Based on the prompted synthesis task, [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) developed [timbre.fun](https://timbre.fun/), a gamified web platform where anyone can explore a two-dimensional synthesiser space and tag the sounds they create with semantic prompts mined from synthesis forums. Debuted at the 2021 Edinburgh Science Festival, the platform attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with prior lab findings: prompts like sharp, bright, and harsh clustered together in synthesis space and in acoustic feature space---PCA and k-means clustering on audio features revealed two distinct spaces, consistent with the LTM luminance-texture grouping. 
 
 <img src="/assets/img/projects/timbre_fun_descriptors.png" alt="descriptors in synthesis space" width="750"/>
 
@@ -89,6 +100,8 @@ Thus, we focused in our post hoc analysis on critically comparing pitch height a
 <h4>Related publications</h4>
 
 Hayes, B., Saitis, C., & Fazekas, G. (2022a). Disembodied timbres: A study on semantically prompted FM synthesis. *Journal of the Audio Engineering Society*, (5), 373-391.
+
+Hayes, B., Saitis, C., & Fazekas, G. (2021). Perceptual and semantic scaling of FM synthesis timbres: Common dimensions and the role of expertise. *Proceedings of the 16th International Conference on Music Perception and Cognition*, 1–2.
 
 Hayes, B., Saitis, C., & Fazekas, G. (2022b). timbre. fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary. *Proceedings of the 24 International Congress on Acoustics (ICA)*, 1–10.
 
