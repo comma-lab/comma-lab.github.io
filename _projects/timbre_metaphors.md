@@ -59,9 +59,13 @@ Very interestingly, **the emotional arousal connotation of timbral metaphors pro
 
 [Reymore, Noble, Saitis, Traube, and Walmark (2023)](https://www.mcgill.ca/mpcl/files/mpcl/reymore_2023_muspercept.pdf) looked at the variations in timbre within an instrument and between different instruments, and the corresponding semantic associations. These variations depend on dynamics, pitch, articulation, duration, vibrato, technique, and other parameters. Register-dependent descriptions of instruments’ timbres characterize instruments based on register, or a part of the instrument’s range, such as the rumbling, thick, and muddy low notes of the piano versus the tinkling, thin, and clear highest notes. This relationship is further complicated by the varying tessituras, or range of playable notes, for different instruments (for example, the flute’s lowest notes overlap with the bassoon’s highest notes, as shown below).
 
-To address these variations, we designed an experiment to examine the effect of register on instrumental timbre semantics, with additional analysis relating specifically to pitch height. 
+<img src="/assets/img/projects/mus_percept_design.png" alt="methodology" align="right" width="650"/> To address these variations, we designed an experiment to examine the effect of register on instrumental timbre semantics, with additional analysis relating specifically to pitch height. Four of the instruments (violin, bass clarinet, trombone, and vibraphone) were selected based on the [ACTOR CORE (Composer-Performer Orchestration Research Ensemble).](https://timbreandorchestration.org/research-ensembles) Vibraphone sounds were bowed, rather than struck, to maintain consistency of excitation type. We then added flute, oboe, trumpet, and cello in order to balance the range of the stimuli and to maximize the variability of orchestral timbres tested. We note that the vibraphone was included precisely because it is an outlier---the only percussion instrument, idiophone, non-default technique, and non-standard orchestral member, offering useful variability for studying how instrument type interacts with register-semantic relationships. <br clear="right"/>
 
-<img src="/assets/img/projects/mus_percept_design.png" alt="methodology" width="750"/>
-
-Four of the instruments (violin, bass clarinet, trombone, and vibraphone) were selected based on the [ACTOR CORE (Composer-Performer Orchestration Research Ensemble).](https://timbreandorchestration.org/research-ensembles) Vibraphone sounds were bowed, rather than struck, to maintain consistency of excitation type. We then added flute, oboe, trumpet, and cello in order to balance the range of the stimuli and to maximize the variability of orchestral timbres tested. We note that the vibraphone was included precisely because it is an outlier---the only percussion instrument, idiophone, non-default technique, and non-standard orchestral member, offering useful variability for studying how instrument type interacts with register-semantic relationships.
-
+Semantic scales (Reymore and Huron 2020):
+| deep, thick, heavy | brassy, metallic | woody |
+| smooth, singing, sweet | raspy, grainy, gravelly | muted, veiled |
+| project, commanding, powerful | ringing, long decay | sustained, even |
+| nasal, buzzy, pinched | sparkling, brilliant, bright | open |
+| shrill, harsh, noisy | airy, breathy | focused, compact |
+| percussive (sharp beginning) | resonant, vibrant | watery, fluid |
+| pure, clear, clean | hollow |
