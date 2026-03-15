@@ -62,9 +62,8 @@ Very interestingly, **the emotional arousal connotation of timbral metaphors pro
 <img src="/assets/img/projects/mus_percept_design.png" alt="methodology" align="right" width="650"/> To address these variations, we designed an experiment to examine the effect of register on instrumental timbre semantics, with additional analysis relating specifically to pitch height. Four of the instruments (violin, bass clarinet, trombone, and vibraphone) were selected based on the [ACTOR CORE (Composer-Performer Orchestration Research Ensemble).](https://timbreandorchestration.org/research-ensembles) Vibraphone sounds were bowed, rather than struck, to maintain consistency of excitation type. We then added flute, oboe, trumpet, and cello in order to balance the range of the stimuli and to maximize the variability of orchestral timbres tested. We note that the vibraphone was included precisely because it is an outlier---the only percussion instrument, idiophone, non-default technique, and non-standard orchestral member, offering useful variability for studying how instrument type interacts with register-semantic relationships. <br clear="right"/>
 
 **Semantic scales** derived from [Reymore & Huron (2020)](https://psycnet.apa.org/buy/2020-46372-001):  
-
 |  |  |  |
-|----------|----------|----------|
+|------------------------------|------------------------------|------------------------------|
 | deep, thick, heavy | brassy, metallic | woody |
 | smooth, singing, sweet | raspy, grainy, gravelly | muted, veiled |
 | project, commanding, powerful | ringing, long decay | sustained, even |
