@@ -35,7 +35,12 @@ In a novel experimental paradigm, experienced sound designers programmed an FM s
 
 <img src="/assets/img/projects/disembodied_FMparams.png" alt="methodology" width="900"/>
 
+* Spearman’s *ρ* correlations
+* *: *p* < 0.05; **: *p* < 0.01; ***: *p* < 0.001
+* F = factor, A = attack; D = decay; S = sustain; R = release; T = tuning; V = volume; 1 = carrier; 2 & 3 = modulators
+
 <!-- <h4>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary</h4> -->
+<br/>
 
 **Scaling up through play.** [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) also developed [timbre.fun](https://timbre.fun/), a gamified web platform where anyone can explore a two-dimensional synthesiser space and tag the sounds they create with semantic prompts mined from synthesis forums. Debuted at the 2021 Edinburgh Science Festival, the platform attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with prior lab findings: prompts like sharp, bright, and harsh clustered together in synthesis space and in acoustic feature space---PCA and k-means clustering on audio features revealed two distinct spaces, consistent with the LTM luminance-texture grouping. 
 
