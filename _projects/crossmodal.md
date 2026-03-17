@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Seeing Music: Auditory-Visual Correspondences"
-img: /assets/img/projects/sm_interface1.png
+title: "Seeing Music, Hearing Colour: Audiovisual Interactions"
+img: /assets/img/projects/pexels_2114365.jpeg
 order: 10
 redirect: false
 display: true
 ---
 
-<h4>Leveraging citizen science and gamification to study cross-sensory associations</h4>
+<h4>Seeing Music: Leveraging citizen science and gamification to study cross-sensory associations</h4>
 
 Seeing Music was an interdisciplinary collaboration across music, linguistics, cognitive science, and art. With funding from QMUL's Centre for Public Engagement we produced [seeingmusic.app](https://www.seeingmusic.app/), the first digital interactive exhibition and game on the cross-sensory experience of music. Seeing Music translates high-level scientific understanding of how our senses interact into knowledge for the public more widely. The tools and approach developed in the project offer a transparent model for future cross-disciplinary projects in public participation and citizen science.
 
@@ -35,11 +35,27 @@ Seeing Music debuted at the **Edinburgh International Science Festival** in July
   <img src="https://img.youtube.com/vi/_xFl-S4M8kU/maxresdefault.jpg" alt="seeingmusic.app" width="460">
 </a>
 
-As Seeing Music continues running online, a further 596 visitors from 35 countries (164 from the UK) have engaged. It was also presented at the 2022 QMUL Festival of Communities. To date 169 players of Seeing Music have produced a total of 42638 audiovisual mapping datapoints. Some initial analysis on this data was reported at the 2022 International Multisensory Research Forum. Preliminary analysis suggests that music with less high-frequency energy was mapped to less complex and rounder shapes, bluer and less bright hues, and less dense textures. These trends confirm auditory-visual correspondences previously reported in more controlled laboratory studies (e.g., see below), while also offering new insight into how different auditory-visual associations interact with each other. 
+As Seeing Music continues running online, a further 596 visitors from 35 countries (164 from the UK) have engaged. To date 169 players of Seeing Music have produced a total of 42638 audiovisual mapping datapoints. Some initial analysis on this data was reported at the 2022 International Multisensory Research Forum. Preliminary analysis suggests that music with less high-frequency energy was mapped to less complex and rounder shapes, bluer and less bright hues, and less dense textures. These trends confirm auditory-visual correspondences previously reported in more controlled laboratory studies (e.g., see below), while also offering new insight into how different auditory-visual associations interact with each other. 
 
 <img src="/assets/img/projects/sm_data1.png" alt="data from a snippet" width="460"/>  <img src="/assets/img/projects/sm_data3.png" alt="data from a snippet" width="460"/>
 
 The core team of Seeing Music included [Sebastian Löbbers](https://sebastianlobbers.com/), [Dr Christine Cuskley](https://ccuskley.github.io/), and Dr Charalampos Saitis. Compositions for the Seeing Music game were created by Sebastian Löbbers, Selim Sheta (Major Miles), and Teo Dannemann. Live music was performed by Berker Banar, Teo Dannemann, Jeff Miller, Courtney Reed, Betty Accorsi and Andrea Martelloni.
+
+Seeing Music was also presented at the 2022 QMUL Festival of Communities. Visitors were invited to visualise the music snippets played continuously in a loop by drawing on a digital interface with their fingers. Sebastian built a touchscreen from a computer screen, a transparent touchpad and plywood using a laser cutter. The digital drawing interface was created with the JavaScript library p5.js to run completely in a web browser. 
+
+<img src="/assets/img/projects/seeingmusic_foc1.webp" alt="data from a snippet" width="460"/>  <img src="/assets/img/projects/seeingmusic_foc2.webp" alt="data from a snippet" width="460"/>
+
+<h4>Hearing Colour: A live performance and art-science conversation</h4>
+
+In November 2021 we hosted a live concert event called Hearing Colour where >50 participants created a collaborative visualisation with their phones while listening to music composed on the basis of colour-sound associations. The audience used their phones to pick colours via a web app, and the picked colours then appeared as moving blobs on a large screen behind the performer. Discussion with the audience explored how crossmodality encourages interplay between artistic expression and listener perception. Hearing Colour was part of the Being Human festival, supported through funding from QMUL's Centre for Public Engagement.
+
+The music was composed and performed by [Xenia Pestova Bennett](https://xeniapestovabennett.com/) on the [Magnetic Resonator Piano](https://andrewmcpherson.org/project/mrp) by Andrew McPherson at the (old) [Iklectik](https://iklectik.org/) venue in London. The MRP is an innovative instrument that uses electromagnets suspended above the piano strings to “shape” resonance from the keyboard while retaining the use of the original action. Xenia's semi-improvised work *Glowing Radioactive Elements* (2018, 25’) consists of five interwoven movements, each exploring different timbral techniques for the MRP. Each movement is associated with a radioactive element and its “colour” signature.
+
+The collaborative visualisation web app was designed by [Sebastian Löbbers](https://sebastianlobbers.com/).
+
+<a href="https://www.youtube.com/watch?v=qS6Ze8n4j8A" title="hearing colour performance clip">
+  <img src="https://img.youtube.com/vi/qS6Ze8n4j8A/maxresdefault.jpg" alt="hearing colour performance clip" width="460">
+</a>
 
 
 <h4>Colored timbres: Do crossmodal correspondences between musical instrument sounds and visual colors rather depend on pitch instead of timbre?</h4>
