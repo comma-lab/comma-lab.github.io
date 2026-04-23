@@ -26,11 +26,8 @@ nav_order: 1
 <h4 class="post-title"><b>Members</b></h4>
 
 * [<b>Dr Charalampos Saitis</b>](https://www.seresearch.qmul.ac.uk/cmai/people/csaitis/)
-* [<b>Luca Marinelli</b>](/people/luca/)
 * [<b>Ben Hayes</b>](https://benhayes.net/) (co-supervision with György Fazekas, C4DM)
-* <b>Jincheng Zhang</b> (co-supervision with György Fazekas, C4DM)
 * [<b>Bleiz Macsen Del Sette</b>](/people/bleiz/)
-* [<b>Remi Falowo</b>](/people/remi/)
 * [<b>Jordie Shier</b>](https://jordieshier.com/) (co-supervision with Andrew McPherson, Imperial)
 * [<b>Haokun Tian</b>](https://tiianhk.github.io) (co-supervision with Stefan Lattner, Sony CSL Paris)
 * [<b>Ashley Noel-Hirst</b>](https://ashleynoelhirst.co.uk/) (co-supervision with Nick Bryan-Kinns, UAL)
@@ -38,18 +35,20 @@ nav_order: 1
 
 <h4 class="post-title"><b>Affiliated members</b></h4>
 
-* <b>Rodrigo Diaz</b> (supervised by Mark Sandler)
 * <b>Nelly Garcia</b> (supervised by Joshua Reiss)
 
 <h4 class="post-title"><b>Alumni</b></h4>
 
-* <b>Dr Vjosa Preniqi</b> (co-supervision with Kyriaki Kalimeri, ISI Foundation)
+* <b>Dr Vjosa Preniqi</b>, “[Moral Values in Music: A Data-Driven Study of Listener Preferences and Lyrical Content](https://qmro.qmul.ac.uk/xmlui/handle/123456789/112605)”, funded by the QMUL-BBC CDT in Data-informed Audience-centric Media Engineering, co-supervision with Kyriaki Kalimeri, 2021–2025
+* <b>Dr Luca Marinelli</b>, “[A Multimodal Semi-Annotated Analysis of Sound and Music in Gendered Toy Advertisement](https://qmro.qmul.ac.uk/xmlui/handle/123456789/125871)”, funded by QMUL and the UKRI CDT in AI & Music, 2020–2025
+* <b>Dr Jincheng Zhang</b>, “Controllable Music Generation using Deep Learning”, funded by QMUL and the China Scholarship Council, co-supervision with György Fazekas, 2021–2025
 
-<h4 class="post-title"><b>Former research assistants</b></h4>
+<h4 class="post-title"><b>Former research assistants & affiliated members</b></h4>
 
-* Rajpreet Athwal (Google DeepMind Research Ready UG placement 2025)
-* Muneeb Musharaf (Google DeepMind Research Ready UG placement 2025)
-* [<b>Sebastian Löbbers</b>](https://sebastianlobbers.com/) (Seeing Music 2021)
+* <b>Dr Rodrigo Diaz</b> (UKRI CDT AI & Music 2021–2026)
+* <b>Rajpreet Athwal</b> (Google DeepMind Research Ready UG placement 2025)
+* <b>Muneeb Musharaf</b> (Google DeepMind Research Ready UG placement 2025)
+* <b>[Dr Sebastian Löbbers](https://sebastianlobbers.com/)</b> (Seeing Music 2021)
 
 <h4 class="post-title"><b>Former visitors</b></h4>
 
