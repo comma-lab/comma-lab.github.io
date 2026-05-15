@@ -102,17 +102,20 @@ collection will be voluntary and subject to informed consent.</p>
 					</div>
 
 				<!-- Footer -->
-					<!-- <section id="footer"> -->
-				<footer class="sticky-bottom mt-5">
+					<section id="footer">
+				<!-- <footer class="sticky-bottom mt-5"> -->
 					<div class="container">
-							<!-- <ul class="copyright">
-								<li>&copy; 2026 <a href="https://comma.eecs.qmul.ac.uk/" target="_blank">Communication Acoustics Lab</a>, Queen Mary University of London. Theme by <a href="http://html5up.net" target="_blank">HTML5 UP</a>.</li>
-							</ul> -->
-							&copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}. {{ site.footer_text }}
+							<div>&copy; Copyright <span id="spanYear"></span> Communication Acoustics Lab, Queen Mary University of London.
+							</div>
 						</div>
-					</footer>
+					</section>
 
 			</div>
+
+		<!-- Get current year for copyright statement -->
+		<script>
+			$('#spanYear').html(new Date().getFullYear());
+		</script>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
