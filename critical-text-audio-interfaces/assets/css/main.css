@@ -2222,7 +2222,7 @@ input, select, textarea {
 
 		.image.logo {
 			display: block;
-			height: 15em;
+			height: 20em;
 			border-radius: 0;
 		}
 
@@ -3008,7 +3008,7 @@ input, select, textarea {
 			}
 
 			.image.logo {
-				height: 10em;
+				height: 14em;
 			}
 
 		/* Header */
@@ -3205,7 +3205,7 @@ input, select, textarea {
 			}
 
 			.image.logo {
-				height: 7em;
+				height: 12em;
 			}
 
 		/* Section/Article */
