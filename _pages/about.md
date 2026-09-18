@@ -25,7 +25,7 @@ We conduct cutting-edge research into the ways people experience sound and techn
 
 Our research approach blends machine learning and AI with experimental (hypothesis-led) and creative (discovery-led) research practices to understand different modalities of experience and interaction between the digital music “user” (listeners, performers, producers) and music/sound as a multimodal semiotic system. 
 
-The lab has received funding from UKRI [(CDT in AI and Music)](http://aim.qmul.ac.uk/), the British Academy, [SSHRC-ACTOR](https://www.actorproject.org/), Yamaha, the BBC, Sony CSL, QMUL [(CDT in Data-informed Audience-centric Media Engineering)](https://dame.qmul.ac.uk/),    and QMUL's Centre for Public Engagement.
+The lab has received funding from UKRI [(CDT in AI and Music)](http://aim.qmul.ac.uk/), the British Academy, [SSHRC-ACTOR](https://www.actorproject.org/), Yamaha, the BBC, QMUL [(CDT in Data-informed Audience-centric Media Engineering)](https://dame.qmul.ac.uk/), and QMUL's Centre for Civic and Public Engagement.
 
 <!-- We conduct research into the ways people experience and interact with sound and technologies to understand and model music communication -->
 
