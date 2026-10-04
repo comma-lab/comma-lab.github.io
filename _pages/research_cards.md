@@ -1,10 +1,10 @@
 ---
 layout: page
-title: test2
-permalink: /test2/
+title: Research
+permalink: /research/
 description:
-nav: false
-nav_order: 7
+nav: true
+nav_order: 2
 horizontal: false
 ---
 
