@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Real-time Percussive Timbral Remapping
-description: PhD research Jordie Shier
+description: PhD research Jordie Shier 2022–present
 img: /assets/img/projects/remapping.png
 order: 4
 redirect: https://jordieshier.com/projects/
