@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interactive Neural Resonators
-description: PhD research Rodrigo Diaz
+description: Collaboration with Rodrigo Diaz 2022–2023
 img: /assets/img/projects/gui2.png
 order: 5
 redirect: false
