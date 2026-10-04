@@ -76,8 +76,8 @@
 .grid-item-people > a > .card.hoverable {
   position: relative;
   width: 100%; /* Card takes full width of link */
-  aspect-ratio: 3 / 1;
-  // flex: 1;
+  aspect-ratio: 1 / 1;
+  flex: 1;
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -111,8 +111,7 @@
   // text-align: center;
   // padding: 10px;
   justify-content: flex-start;
-  // padding: 66% 12px 12px 12px;
-  padding: 12px;
+  padding: 66% 12px 12px 12px;
   transition: background 0.3s ease;
 }
 
