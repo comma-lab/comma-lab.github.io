@@ -24,9 +24,11 @@ Most of what we know about what is called "timbre semantics" comes from studies 
 
 In a novel experimental paradigm, experienced sound designers programmed an FM synthesiser in response to semantic prompts, and provided semantic ratings on the sounds they created. We collected 1,407,604 publicly available posts from a popular synth forum, and looked for adjectives co-occuring with the terms *sound*, *sounding*, *tone*, and *timbre*. An initial list of 96,277 adjectives were independently pruned by two raters down to a list of 27 unipolar semantic scales, including "bright," "thick" and "rough" selected as synthesis prompts.
 
+<center>
 <video width="700" controls>
     <source src="/assets/vid/disembodied_interface.mp4" type="video/mp4">
 </video>
+</center>
 <br/>
 
 **Exploratory factor analysis of the semantic ratings recovered five dimensions.** The first two broadly echoed the LTM model: luminance and texture merged into a single "sharpness" factor, while mass appeared as a second independent factor. Three additional dimensions emerged, namely clarity, percussiveness, and rawness, which appear to reflect specific qualities of FM timbres that listeners discriminated. 
