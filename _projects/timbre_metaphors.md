@@ -2,7 +2,7 @@
 layout: page
 title: Metaphors We Listen With (timbre semantics)
 description: 2021–present
-img: /assets/img/projects/timbrefun_agg.png
+img: /assets/img/projects/PVDWaEhSIAg-unsplash.jpg
 order: 1
 redirect: false
 display: true
@@ -10,7 +10,11 @@ display: true
 
 Timbre is notoriously difficult to define, and even harder to talk about. Yet people do talk about it, especially musicians, composers, producers, instrument makers, and with surprising consistency. Previous studies have converged on a small number of recurring semantic dimensions, which can be interpreted broadly in terms of brightness/sharpness (or luminance), roughness/harshness (or texture), and fullness/richness (or mass). [Saitis and Weinzierl (2019)](/assets/pdf/Saitis_chap5.pdf) provide a comprehensive review of the field.
 
-These semantic descriptions of timbre embody conceptual representations, allowing listeners to talk about subtle acoustic variations through other, more commonly shared corporeal experiences---*metaphors we listen with*. The [luminance-texture-mass (LTM) model](https://joshreiss.github.io/documents/2014/Zacharakis%20Pastiadis%20Reiss%20-%20Music%20Perception.pdf) describes how listeners across different languages tend to reach for the same kinds of metaphor. But how far does this model stretch? And does the way we *talk* about timbre actually track how we *make* sounds?
+These semantic descriptions of timbre embody conceptual representations, allowing listeners to talk about subtle acoustic variations through other, more commonly shared corporeal experiences---*metaphors we listen with*. The [luminance-texture-mass (LTM) model](https://joshreiss.github.io/documents/2014/Zacharakis%20Pastiadis%20Reiss%20-%20Music%20Perception.pdf) describes how listeners across different languages tend to reach for the same kinds of metaphor. 
+
+<!-- But how far does this model stretch? And does the way we *talk* about timbre actually track how we *make* sounds? -->
+
+<center><img src="/assets/img/projects/timbre_metaphors.png" alt="discourse_semantics_crossmodal" width="800"/></center>
 
 <h4><br>Disembodied Timbres: a study on semantically prompted FM synthesis</h4>
 
