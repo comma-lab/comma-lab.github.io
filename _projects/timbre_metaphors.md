@@ -12,7 +12,7 @@ Timbre is notoriously difficult to define, and even harder to talk about. Yet pe
 
 These semantic descriptions of timbre embody conceptual representations, allowing listeners to talk about subtle acoustic variations through other, more commonly shared corporeal experiences---*metaphors we listen with*. The [luminance-texture-mass (LTM) model](https://joshreiss.github.io/documents/2014/Zacharakis%20Pastiadis%20Reiss%20-%20Music%20Perception.pdf) describes how listeners across different languages tend to reach for the same kinds of metaphor. But how far does this model stretch? And does the way we *talk* about timbre actually track how we *make* sounds?
 
-<h4><br></BR>Disembodied Timbres: a study on semantically prompted FM synthesis (JAES, 2022)</h4>
+<h4><br>Disembodied Timbres: a study on semantically prompted FM synthesis</h4>
 
 Most of what we know about what is called "timbre semantics" comes from studies using acoustic orchestral instruments. [Hayes, Saitis, and Fazekas (2022a)](https://drive.google.com/file/d/1E3OV8WdJnNkkFwDu_pzpIjt-R6ml9qV2/view) asked whether the same conceptual vocabulary applies to sounds with no recognisable physical source: the "disembodied" timbres of digital synthesis.
 
@@ -42,7 +42,7 @@ In a novel experimental paradigm, experienced sound designers programmed an FM s
 
 <!-- The overall conclusion is that electronic timbres may draw on perceptual attributes distinct from those governing acoustic instrument sounds, that expertise modulates perception but not semantic description, and that this gap points to attributes in the sounds that the adjective set may not fully capture. -->
 
-<h4><br>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary (ICA, 2022)</h4>
+<h4><br>timbre.fun: A gamified interactive system for crowdsourcing a timbre semantic vocabulary</h4>
 
 Based on the prompted synthesis task, [Hayes, Saitis, and Fazekas (2022b)](https://comma.eecs.qmul.ac.uk/assets/pdf/ICA_2022_template_final_ABS-0997.pdf) developed the [timbre.fun](https://timbre.fun/) game. Debuted at the 2021 Edinburgh Science Festival, it attracted nearly 800 users from 35 countries, yielding hundreds of tagged sounds. Even with this more casual, diverse sample, the emergent structure of the data aligned meaningfully with our prior controlled findings.
 
@@ -57,7 +57,7 @@ Very interestingly, and somewhat unexpectedly, the emotional arousal connotation
 
 <!-- Using published [word affect norms](https://link.springer.com/content/pdf/10.3758/s13428-012-0314-x.pdf), valence, arousal, and dominance scores were obtained for each prompt. Each affect dimension was treated as a binary classification problem, fitting an SVM (RBF kernel) on either acoustic principal components or synthesiser parameters as input. A binomial test using the no-information rate as the null hypothesis suggested the result for arousal was statistically significant (accuracy: synth parameters 73.1%, acoustic PCs 71%; *p* < 0.001). -->
 
-<h4><br>Timbre semantic associations vary both between and within instruments (Music Perception, 2023)</h4>
+<h4><br>Timbre semantic associations vary both between and within instruments</h4>
 
 <!-- These variations depend on dynamics, pitch, articulation, duration, vibrato, technique, and other parameters. Register-dependent descriptions of instruments’ timbres characterize instruments based on register, or a part of the instrument’s range, such as the rumbling, thick, and muddy low notes of the piano versus the tinkling, thin, and clear highest notes. This relationship is further complicated by the varying tessituras, or range of playable notes, for different instruments (for example, the flute’s lowest notes overlap with the bassoon’s highest notes, as shown below). -->
 
