@@ -14,7 +14,7 @@ These semantic descriptions of timbre embody conceptual representations, allowin
 
 <!-- But how far does this model stretch? And does the way we *talk* about timbre actually track how we *make* sounds? -->
 
-<center><img src="/assets/img/projects/timbre_metaphors.png" alt="discourse_semantics_crossmodal" width="800"/></center>
+<center><img src="/assets/img/projects/timbre_metaphors.png" alt="discourse_semantics_crossmodal" width="600"/></center>
 
 <h4><br>Disembodied Timbres: a study on semantically prompted FM synthesis</h4>
 
