@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creative Audio Synthesis and Interfaces Workshop
+title: Creative Audio Synthesis and Interfaces Workshop 2025
 description: 
 img: /assets/img/projects/casi_bg.png
 order: 7
