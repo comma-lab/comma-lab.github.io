@@ -3,7 +3,7 @@ layout: page
 title: Metaphors We Listen With (timbre semantics)
 description: 2021–present
 img: /assets/img/projects/PVDWaEhSIAg-unsplash.jpg
-order: 1
+order: 7
 redirect: false
 display: true
 ---
