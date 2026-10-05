@@ -3,7 +3,7 @@ layout: page
 title: Sampling the Latent Space
 description: PhD research Ashley Noel-Hirst 2022–present
 img: /assets/img/projects/dilla.jpg
-order: 5
+order: 6
 redirect: false
 display: true
 ---
