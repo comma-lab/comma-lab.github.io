@@ -3,7 +3,7 @@ layout: page
 title: Interactive Neural Resonators
 description: Collaboration with Rodrigo Diaz 2022–2023
 img: /assets/img/projects/gui2.png
-order: 5
+order: 12
 redirect: false
 display: true
 ---
