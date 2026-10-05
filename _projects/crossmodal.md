@@ -3,7 +3,7 @@ layout: page
 title: "Seeing Music, Hearing Colour (timbre and crossmodality)"
 description: 2021–2024
 img: /assets/img/projects/pexels_2114365.jpeg
-order: 10
+order: 13
 redirect: false
 display: true
 ---
