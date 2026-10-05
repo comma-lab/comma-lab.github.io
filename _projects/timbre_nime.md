@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Timbre and Sonic Cultures in Digital Lutherie Practices
+title: (De)Constructing Timbre at NIME / Timbre Tools Hackathon
+description: 2023–present
 img: /assets/img/projects/submissions_no_name.jpg
 order: 5
 redirect: false
