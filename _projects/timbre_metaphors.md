@@ -2,7 +2,7 @@
 layout: page
 title: Metaphors We Listen With (timbre semantics)
 description: 2021–present
-img: /assets/img/projects/pexels-steve-14965845.jpg
+img: /assets/img/projects/pexels_14965845.jpg
 order: 7
 redirect: false
 display: true
