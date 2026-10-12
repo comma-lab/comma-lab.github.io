@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Linking Moral Values and Musical Taste through Lyrics (and Audio)
+title: Moral Values Encoding in Popular Music Lyrics
 description: PhD research Vjosa Preniqi 2021-2025
 img: /assets/img/projects/1oKxSKSOowE_unsplash.jpg
 order: 1
