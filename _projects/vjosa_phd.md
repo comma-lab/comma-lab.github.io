@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Decoding Moral Values in Popular Music
-description: PhD research Vjosa Preniqi
+title: Linking Moral Values and Musical Taste through Lyrics (and Audio)
+description: PhD research Vjosa Preniqi 2021-2025
 img: /assets/img/projects/1oKxSKSOowE_unsplash.jpg
 order: 1
-redirect: Remove if not redirecting
+redirect: false
 display: true
 ---
 
-<!-- Insert markdown content -->
+Popular music lyrics are among the most widely circulated forms of performed language, influencing emotions but also reflecting societal values, voicing issues such as inequality and discrimination
