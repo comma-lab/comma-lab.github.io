@@ -39,8 +39,8 @@ nav_order: 1
 
 <h4 class="post-title"><b>Alumni</b></h4>
 
-* <b>Dr Vjosa Preniqi</b>, “[Moral Values in Music: A Data-Driven Study of Listener Preferences and Lyrical Content](https://qmro.qmul.ac.uk/xmlui/handle/123456789/112605)”, funded by the QMUL-BBC CDT in Data-informed Audience-centric Media Engineering, co-supervision with Kyriaki Kalimeri, 2021–2025
-* <b>Dr Luca Marinelli</b>, “[A Multimodal Semi-Annotated Analysis of Sound and Music in Gendered Toy Advertisement](https://qmro.qmul.ac.uk/xmlui/handle/123456789/125871)”, funded by QMUL and the UKRI CDT in AI & Music, 2020–2025
+* <b>Dr Vjosa Preniqi</b>, “[Moral Values in Music: A Data-Driven Study of Listener Preferences and Lyrical Content](https://qmro.qmul.ac.uk/handle/123456789/112605)”, funded by the QMUL-BBC CDT in Data-informed Audience-centric Media Engineering, co-supervision with Kyriaki Kalimeri, 2021–2025
+* <b>Dr Luca Marinelli</b>, “[A Multimodal Semi-Annotated Analysis of Sound and Music in Gendered Toy Advertisement](https://qmro.qmul.ac.uk/handle/123456789/125871)”, funded by QMUL and the UKRI CDT in AI & Music, 2020–2025
 * <b>Dr Jincheng Zhang</b>, “Controllable Music Generation using Deep Learning”, funded by QMUL and the China Scholarship Council, co-supervision with György Fazekas, 2021–2025
 
 <h4 class="post-title"><b>Former research assistants & affiliated members</b></h4>
